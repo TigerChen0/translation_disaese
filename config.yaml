@@ -1,0 +1,74 @@
+# ==============================================================================
+# 中醫文獻翻譯系統配置文件
+# Traditional Chinese Medicine Translation System Configuration
+# ==============================================================================
+
+# 模型配置 / Model Configuration
+# 注意：如果本地路徑不存在，系統將自動從 HuggingFace 下載模型
+# Note: If local path doesn't exist, system will automatically download from HuggingFace
+model:
+  #path: "microsoft/DialoGPT-medium"  # HuggingFace 路徑 / HuggingFace path
+  path: "/home/nculcwu/DeepSeek/deepseek-llm-7b-chat"  # 本地路徑 / Local path
+  torch_dtype: "auto"
+  device_map: "auto"
+  low_cpu_mem_usage: true
+  trust_remote_code: true
+
+  # 生成參數 / Generation Parameters
+  generation:
+    max_new_tokens: 256
+    do_sample: true
+    temperature: 0.7
+    top_p: 0.95
+
+# 翻譯配置 / Translation Configuration
+translation:
+  max_context_tokens: 3800
+  max_sequence_length: 4096
+
+  # Prompt 模板 / Prompt Template
+  prompt_template:
+    "
+    嚴格按照原文內容翻譯，不要添加任何原文沒有的內容。
+
+    --- 參考上下文開始 ---
+    {context_paragraph}
+    --- 上下文結束 ---
+
+    請將以下原文翻譯：「{term}」
+
+    翻譯規則：
+    1. 只翻譯原文實際包含的內容
+    2. 不要添加任何治療方法、建議或解釋
+    3. 不要擴展或補充原文沒有的信息
+    4. 如果原文只是症狀描述，翻譯結果也只能是症狀描述
+    5. 只能使用繁體白話文做輸出
+    "
+
+
+# 檔案配置 / File Configuration
+files:
+  control_file: "/home/nculcwu/DeepSeek/7_附論段落.xlsx"
+  folder_path: "."
+  target_file_pattern: "classified_section_卷"
+  volume_regex: "(\\d+)\\.xlsx$"
+
+  # 輸出檔案格式 / Output File Format
+  output:
+    batch_format: "上下文引導翻譯報告_卷{min_vol:03d}-卷{max_vol:03d}_{date}.xlsx"
+    single_format: "上下文引導翻譯報告_卷{vol:03d}_{date}.xlsx"
+    date_format: "%Y%m%d"
+
+# 日誌配置 / Logging Configuration
+logging:
+  server:
+    file: "server.log"
+    max_size_mb: 10
+    backup_count: 2
+    level: "DEBUG"
+    format: "%(asctime)s-%(levelname)s-%(message)s"
+
+# 系統配置 / System Configuration
+system:
+  cuda_alloc_conf: "expandable_segments:True"
+  memory_cleanup: true  # 是否在翻譯後清理GPU記憶體

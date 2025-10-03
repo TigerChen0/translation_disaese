@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(python:*)",
+      "Bash(find:*)",
+      "WebSearch",
+      "Bash(python3:*)",
+      "Read(//home/nculcwu/.cache/huggingface/**)",
+      "Bash(sudo chown:*)",
+      "Bash(timeout:*)",
+      "Bash(nvidia-smi:*)",
+      "Bash(top:*)",
+      "Bash(ps:*)",
+      "Bash(netstat:*)",
+      "Bash(ss:*)",
+      "Read(//home/nculcwu/**)",
+      "Bash(git clone:*)",
+      "Bash(git lfs pull:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

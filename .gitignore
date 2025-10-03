@@ -1,0 +1,6 @@
+*.log
+*.out
+*.pyc
+__pycache__/*.*
+venv/*.*
+deepseek-llm-7b-chat/*.*
