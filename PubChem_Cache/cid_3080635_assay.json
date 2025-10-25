@@ -1,0 +1,193 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Activity Outcome",
+        "Target Accession",
+        "Target GeneID",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Assay Type",
+        "PubMed ID",
+        "RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "400125",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "P09917",
+          "240",
+          "25.1",
+          "IC50",
+          "Inhibition of 5-lipoxygenase",
+          "Confirmatory",
+          "9544564",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "400126",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "P23219",
+          "5742",
+          "200",
+          "IC50",
+          "Inhibition of COX1",
+          "Confirmatory",
+          "9544564",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "401193",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antihepatotoxic activity against carbon tetrachloride-induced cytotoxicity in rat hepatocytes assessed as GPT level at 0.01 mg/mL relative to control",
+          "Other",
+          "6418860",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "401194",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antihepatotoxic activity against carbon tetrachloride-induced cytotoxicity in rat hepatocytes assessed as GPT level at 0.1 mg/mL relative to control",
+          "Other",
+          "6418860",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "401195",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antihepatotoxic activity against carbon tetrachloride-induced cytotoxicity in rat hepatocytes assessed as GPT level at 1 mg/mL relative to control",
+          "Other",
+          "6418860",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "401196",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antihepatotoxic activity against galactosamine-induced cytotoxicity in rat hepatocytes assessed as GPT level at 0.01 mg/mL relative to control",
+          "Other",
+          "6418860",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "401197",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antihepatotoxic activity against galactosamine-induced cytotoxicity in rat hepatocytes assessed as GPT level at 0.1 mg/mL relative to control",
+          "Other",
+          "6418860",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "401451",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antihepatotoxic activity against galactosamine-induced cytotoxicity in rat hepatocytes assessed as GPT level at 1 mg/mL relative to control",
+          "Other",
+          "6418860",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "401452",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "P25409",
+          "81670",
+          "",
+          "",
+          "Effect on GPT in rat hepatocytes relative to control",
+          "Other",
+          "6418860",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1111786",
+          "",
+          "103580488",
+          "3080635",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Insecticidal activity against wild type Drosophila melanogaster L. assessed as mortality compound topically applied dorsally to the thorax at 23 to 25 25 degC, 60 to 70%RH measured per adult after 3 hr",
+          "Other",
+          "21520395",
+          ""
+        ]
+      }
+    ]
+  }
+}

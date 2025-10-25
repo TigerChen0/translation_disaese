@@ -16,7 +16,8 @@
       "Bash(ss:*)",
       "Read(//home/nculcwu/**)",
       "Bash(git clone:*)",
-      "Bash(git lfs pull:*)"
+      "Bash(git lfs pull:*)",
+      "Bash(grep:*)"
     ],
     "deny": [],
     "ask": []

@@ -1,0 +1,1978 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Activity Outcome",
+        "Target Accession",
+        "Target GeneID",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Assay Type",
+        "PubMed ID",
+        "RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "254837",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "Q9S446",
+          "",
+          "",
+          "",
+          "Inhibitory activity against Sortase A from Staphylococcus aureus",
+          "Other",
+          "16154746",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "255501",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Minimum inhibitory concentration against Staphylococcus aureus Newman strain",
+          "Other",
+          "16154746",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336584",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Toxicity in brine shrimp",
+          "Other",
+          "1453182",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336585",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human A549 cells after 7 days",
+          "Other",
+          "1453182",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336586",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human MCF7 cells after 7 days",
+          "Other",
+          "1453182",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336587",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HT-29 cells after 7 days",
+          "Other",
+          "1453182",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "339009",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against mouse P388 cells",
+          "Other",
+          "3404159",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358230",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Inhibition of 12-O-tetradecanoylphorbol-13-acetate-induced EBV-early antigen activation in human Raji cells at 1000 molar ratio relative to TPA",
+          "Other",
+          "11678656",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358231",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Inhibition of 12-O-tetradecanoylphorbol-13-acetate-induced EBV-early antigen activation in human Raji cells at 500 molar ratio relative to TPA",
+          "Other",
+          "11678656",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358232",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Inhibition of 12-O-tetradecanoylphorbol-13-acetate-induced EBV-early antigen activation in human Raji cells at 100 molar ratio relative to TPA",
+          "Other",
+          "11678656",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358233",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Inhibition of 12-O-tetradecanoylphorbol-13-acetate-induced EBV-early antigen activation in human Raji cells at 10 molar ratio relative to TPA",
+          "Other",
+          "11678656",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358234",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human Raji cells assessed as cell viability at 1000 molar ratio by Trypan blue method",
+          "Other",
+          "11678656",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358235",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human Raji cells assessed as cell viability at 500 molar ratio by Trypan blue method",
+          "Other",
+          "11678656",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358236",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human Raji cells assessed as cell viability at 100 molar ratio by Trypan blue method",
+          "Other",
+          "11678656",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358237",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human Raji cells assessed as cell viability at 10 molar ratio by Trypan blue method",
+          "Other",
+          "11678656",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358852",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "100",
+          "ED50",
+          "Antiproliferative activity against mouse Colon 26-L5 cells by MTT assay",
+          "Confirmatory",
+          "11277741",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358853",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "100",
+          "ED50",
+          "Antiproliferative activity against human HT1080 cells by MTT assay",
+          "Confirmatory",
+          "11277741",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "377830",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "30",
+          "IC50",
+          "Antioxidant activity assessed as DPPH radical scavenging activity after 30 mins",
+          "Confirmatory",
+          "15844957",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "377831",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "30",
+          "IC50",
+          "Antioxidant activity assessed as authentic peroxynitrite free radical scavenging activity after 30 mins",
+          "Confirmatory",
+          "15844957",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "377832",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "30",
+          "IC50",
+          "Antioxidant activity assessed as 3-morpholinosydnonimine-derived peroxynitrite free radical scavenging activity after 30 mins",
+          "Confirmatory",
+          "15844957",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "379516",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "IC50",
+          "Cytotoxicity against human A549 cells after 96 hrs by MTT assay",
+          "Confirmatory",
+          "17125236",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "379517",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "IC50",
+          "Cytotoxicity against human A2780 cells after 96 hrs by MTT assay",
+          "Confirmatory",
+          "17125236",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "379518",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "IC50",
+          "Cytotoxicity against human Bel-7402 cells after 96 hrs by MTT assay",
+          "Confirmatory",
+          "17125236",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "379519",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "IC50",
+          "Cytotoxicity against human BGC-823 cells after 96 hrs by MTT assay",
+          "Confirmatory",
+          "17125236",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "379520",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "IC50",
+          "Cytotoxicity against human HCT8 cells after 96 hrs by MTT assay",
+          "Confirmatory",
+          "17125236",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "379521",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "P18031",
+          "5770",
+          "",
+          "",
+          "Inhibition of PTP1B at 50 uM",
+          "Other",
+          "17125236",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "379522",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "P00734",
+          "",
+          "",
+          "",
+          "Inhibition of thrombin at 50 uM",
+          "Other",
+          "17125236",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "398791",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Antitumor activity against mouse P388 cells xenografted in mouse at 50 to 400 mg/kg",
+          "Other",
+          "7381509",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "399960",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human Lu1 cells",
+          "Other",
+          "15043409",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "399961",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human LNCAP cells",
+          "Other",
+          "15043409",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "399962",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human MCF7 cells",
+          "Other",
+          "15043409",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "399963",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against HUVEC",
+          "Other",
+          "15043409",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "402618",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "P06746",
+          "5423",
+          "26.5",
+          "IC50",
+          "Inhibition of DNA polymerase beta lyase activity",
+          "Confirmatory",
+          "15165161",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "419045",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "Q9S446",
+          "",
+          "31.72",
+          "IC50",
+          "Inhibition of 6-His tagged Staphylococcus aureus recombinant sortase delta N24 expressed in Escherichia coli BL21 (DE3)",
+          "Confirmatory",
+          "19269184",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "426207",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against african green monkey Vero cells upto 50 uM by neutral red assay",
+          "Other",
+          "19555121",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "426208",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against pig LLC-PK11 cells upto 50 uM by neutral red assay",
+          "Other",
+          "19555121",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "426210",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human SW1353 cells by neutral red assay",
+          "Other",
+          "19555121",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "426211",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "P08047",
+          "6667",
+          "",
+          "",
+          "Inhibition of SP1-dependent luciferase expression",
+          "Other",
+          "19555121",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "426212",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HepG2 cells upto 50 uM by neutral red assay",
+          "Other",
+          "19555121",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "426213",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human SK-MEL cells upto 50 uM by neutral red assay",
+          "Other",
+          "19555121",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "426214",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human KB cells upto 50 uM by neutral red assay",
+          "Other",
+          "19555121",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "426215",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human BT549 cells upto 50 uM by neutral red assay",
+          "Other",
+          "19555121",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "426216",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human SKOV3 cells upto 50 uM by neutral red assay",
+          "Other",
+          "19555121",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437575",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HepG2 cells assessed as cell survival at 5 uM after 24 hrs by MTT assay",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437576",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HepG2 cells assessed as cell survival at 10 uM after 24 hrs by MTT assay",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437577",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HepG2 cells assessed as cell survival at 20 uM after 24 hrs by MTT assay",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437578",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HepG2 cells assessed as cell survival at 100 uM after 24 hrs by MTT assay",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437579",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "O43741",
+          "5565",
+          "",
+          "",
+          "Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437579",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "P54619",
+          "5571",
+          "",
+          "",
+          "Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437579",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "P54646",
+          "5563",
+          "",
+          "",
+          "Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437579",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "Q13131",
+          "5562",
+          "",
+          "",
+          "Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437579",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "Q9UGI9",
+          "53632",
+          "",
+          "",
+          "Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437579",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "Q9UGJ0",
+          "51422",
+          "",
+          "",
+          "Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437579",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "Q9Y478",
+          "5564",
+          "",
+          "",
+          "Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437580",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "P49841",
+          "2932",
+          "",
+          "",
+          "Induction of GSK3-beta phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437581",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "",
+          "",
+          "",
+          "",
+          "Increase in glycogen synthesis in human HepG2 cells assessed as incorporation of [14C]glucose in to cellular glycogen pools at 10 uM after 60 mins in presence of 33 mM glucose",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "437582",
+          "",
+          "103579906",
+          "5742590",
+          "Active",
+          "",
+          "",
+          "",
+          "",
+          "Induction of glucose uptake in human HepG2 cells at 10 uM in presence of 33 mM 2-[14C]-DOG by scintillation counting",
+          "Other",
+          "19716700",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "466796",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "50.8",
+          "GI50",
+          "Growth inhibition of human HL60 cells by MTT assay",
+          "Confirmatory",
+          "20153184",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "466797",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "29.8",
+          "GI50",
+          "Growth inhibition of human SKOV3 cells by MTT assay",
+          "Confirmatory",
+          "20153184",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "466798",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "35.5",
+          "GI50",
+          "Growth inhibition of human A549 cells by MTT assay",
+          "Confirmatory",
+          "20153184",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "466799",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "46.8",
+          "GI50",
+          "Growth inhibition of human HT-29 cells by MTT assay",
+          "Confirmatory",
+          "20153184",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "466801",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity in mouse RAW264.7 cells assessed as inhibition of LPS-stimulated TNFalpha production at 100 nM pretreated 1 hr before LPS challenge measured after 24 hrs by sandwich ELISA relative to control",
+          "Other",
+          "20153184",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "551461",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Antioxidant activity assessed as peroxyl radical scavenging activity at 1 to 2 uM by ORAC assay",
+          "Other",
+          "21194938",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "551462",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Antioxidant activity assessed as copper ion radical scavenging activity at 2 uM",
+          "Other",
+          "21194938",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "551463",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Metal chelating activity of the compound at 1 to 2 uM",
+          "Other",
+          "21194938",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "595749",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Inhibition of fMLP/CB-stimulated superoxide anion generation in human neutrophils at 30 uM relative to control",
+          "Other",
+          "21417387",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "595750",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Inhibition of fMLP/CB-activated human neutrophil degranulation assessed as inhibition of elastase release at 30 uM using MeO-Suc-Ala-Ala-Pro-Val-p-nitroanilide as a substrate after 5 mins relative to control",
+          "Other",
+          "21417387",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "595751",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human KB cells assessed as growth inhibition after 3 days by sulforhodamine B assay",
+          "Other",
+          "21417387",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "595752",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human DU145 cells assessed as growth inhibition after 3 days by sulforhodamine B assay",
+          "Other",
+          "21417387",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "595753",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human A549 cells assessed as growth inhibition after 3 days by sulforhodamine B assay",
+          "Other",
+          "21417387",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "595754",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HCT8 cells assessed as growth inhibition after 3 days by sulforhodamine B assay",
+          "Other",
+          "21417387",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "632581",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity in C57BL/6 mouse BMDC assessed as inhibition of LPS-stimulated TNF-alpha production up to 50 uM preincubated for 1 hr before LPS-stimulation measured after 16 hrs by ELISA",
+          "Other",
+          "22071304",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "632582",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity in C57BL/6 mouse BMDC assessed as inhibition of LPS-stimulated IL-6 production up to 50 uM preincubated for 1 hr before LPS-stimulation measured after 16 hrs by ELISA",
+          "Other",
+          "22071304",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "632583",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity in C57BL/6 mouse BMDC assessed as inhibition of LPS-stimulated IL-12p40 production up to 50 uM preincubated for 1 hr before LPS-stimulation measured after 16 hrs by ELISA",
+          "Other",
+          "22071304",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "654332",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "50",
+          "IC50",
+          "Inhibition of advanced glycation end-products formation after 14 days by spectrofluorimetry",
+          "Confirmatory",
+          "22264115",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "654333",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "P07943",
+          "24192",
+          "30",
+          "IC50",
+          "Inhibition of Sprague-Dawley rat lens aldose reductase",
+          "Confirmatory",
+          "22264115",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "663212",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human Ca9-22 cells by MTT assay",
+          "Other",
+          "22413887",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "663213",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human MDA-MB-231 cells by MTT assay",
+          "Other",
+          "22413887",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "663215",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity in human neutrophils assessed as inhibition of FMLP/CB-induced superoxide anion generation at 10 ug/mL incubated for 5 mins prior to FMLP/CB-challenge measured after 10 mins by spectrophotometry",
+          "Other",
+          "22413887",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "663217",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity in human neutrophils assessed as inhibition of FMLP/CB-induced elastase release at 10 ug/mL incubated for 5 mins prior to FMLP/CB-challenge by spectrophotometry",
+          "Other",
+          "22413887",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "664924",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HepG2 cells by MTT assay",
+          "Other",
+          "22413887",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "664925",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human Hep3B cells by MTT assay",
+          "Other",
+          "22413887",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "664926",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human MCF7 cells by MTT assay",
+          "Other",
+          "22413887",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "664927",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human A549 cells by MTT assay",
+          "Other",
+          "22413887",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "671761",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Inhibition of SARS coronavirus nsP13 helicase activity expressed in Escherichia coli Rosetta assessed inhibition of DNA unwinding activity at 10 uM by FRET assay",
+          "Other",
+          "22578462",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "671762",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Inhibition of HCV NS3 helicase overexpressed in Escherichia coli BL21(DE3) assessed as inhibition of DNA unwinding activity at 10 uM by FRET assay",
+          "Other",
+          "22578462",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "671764",
+          "",
+          "103579906",
+          "5742590",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Inhibition of HCV NS3 helicase ATP hydrolysis activity overexpressed in Escherichia coli BL21(DE3) assessed as inhibition of inorganic phosphate release by AM/MG-based colometric analysis in the presence of M13 ssDNA",
+          "Other",
+          "22578462",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "735840",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "100",
+          "ED50",
+          "Antioxidant activity assessed as DPPH radical scavenging activity by ELISA",
+          "Confirmatory",
+          "23540981",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1187685",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Activation of TCF/beta-catenin transcription in human STF/293 cells assessed as increase in TOP activity by luciferase reporter gene assay",
+          "Other",
+          "25124862",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1187687",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against STF reporter expressing HEK293 cells at 10 to 30 uM after 24 hrs by fluorescein diacetate dye based fluorescence assay",
+          "Other",
+          "25124862",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1256912",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "O75874",
+          "3417",
+          "",
+          "",
+          "Inhibition of human IDH1 R132H mutant expressed in IPTG-induced Escherichia coli BL21 cells assessed as oxidation of NADPH to NADP+ after 5 mins by spectrophotometry",
+          "Other",
+          "26508549",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1256913",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "O75874",
+          "3417",
+          "",
+          "",
+          "Inhibition of human IDH1 expressed in IPTG-induced Escherichia coli BL21 cells assessed as reduction of NADP+ to NADPH after 5 mins by spectrophotometry",
+          "Other",
+          "26508549",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1366137",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Escherichia coli assessed as diameter of inhibition zone at 1 mg/ml",
+          "Other",
+          "29033234",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1366138",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Staphylococcus aureus assessed as diameter of inhibition zone at 1 mg/ml",
+          "Other",
+          "29033234",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1366153",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Escherichia coli assessed as diameter of inhibition zone at 20 mg/ml",
+          "Other",
+          "29033234",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1366155",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Staphylococcus aureus assessed as diameter of inhibition zone at 20 mg/ml",
+          "Other",
+          "29033234",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1366164",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Helicobacter pylori assessed as diameter of inhibition zone at 1 mg/ml",
+          "Other",
+          "29033234",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1366165",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Klebsiella pneumoniae assessed as diameter of inhibition zone at 20 mg/ml",
+          "Other",
+          "29033234",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1366166",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Pseudomonas aeruginosa assessed as diameter of inhibition zone at 20 mg/ml",
+          "Other",
+          "29033234",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1366167",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Salmonella typhi assessed as diameter of inhibition zone at 20 mg/ml",
+          "Other",
+          "29033234",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1409598",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antiviral activity determined as inhibition of SARS-CoV-2 induced cytotoxicity of Caco-2 cells at 10 uM after 48 hours by high content imaging",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1416503",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HepG2 cells after 24 hrs by MTT assay",
+          "Other",
+          "30108878",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1416504",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human Bel7402 cells after 24 hrs by MTT assay",
+          "Other",
+          "30108878",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1416505",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human A549 cells after 24 hrs by MTT assay",
+          "Other",
+          "30108878",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1416506",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human MCF7 cells after 24 hrs by MTT assay",
+          "Other",
+          "30108878",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1454229",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "50",
+          "IC50",
+          "Cytotoxicity against human NCI-H460 cells incubated for 24 hrs by MTT assay",
+          "Confirmatory",
+          "28606759",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1607865",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "77.4",
+          "IC50",
+          "Antiinflammatory activity in mouse RAW264.7 cells assessed as inhibition of LPS-induced nitric oxide production",
+          "Confirmatory",
+          "31255927",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1640020",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "P0DTD1",
+          "",
+          "",
+          "",
+          "SARS-CoV-2 3CL-Pro protease inhibition percentage at 20µM  by FRET kind of response from peptide substrate",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645758",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antiviral activity determined as inhibition of SARS-CoV-2 induced cytotoxicity of VERO-6 cells at 10 uM after 48 hours exposure to 0.01 MOI SARS CoV-2 virus by high content imaging",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1749710",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "Q9UBN7",
+          "10013",
+          "",
+          "",
+          "Enzymatic assay of human HDAC6 with commercial peptide substrate",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1749711",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "Q9UBN7",
+          "10013",
+          "",
+          "",
+          "Enzymatic assay of human HDAC6 with custom peptide substrate",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1925582",
+          "",
+          "103579906",
+          "5742590",
+          "Unspecified",
+          "Q9S446",
+          "",
+          "31.8",
+          "IC50",
+          "Inhibition of Staphylococcus aureus SrtA using EDANS-Dabcyl as substrate by FRET assay",
+          "Confirmatory",
+          "34516107",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963988",
+          "",
+          "3718017",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "HIV Enzyme Data",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061326",
+          "",
+          "3718017",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Mycobacterium tuberculosis Opportunistic Infection Cellular Data",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061329",
+          "",
+          "3718017",
+          "5742590",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Opportunistic Infection Cellular Data",
+          "Other",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+}

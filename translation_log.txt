@@ -1,0 +1,753 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+開始處理草藥名稱英文翻譯
+輸入檔案: /home/nculcwu/DeepSeek/對照表_已清理.xlsx
+輸出檔案: /home/nculcwu/DeepSeek/對照表_含英文_20251015.xlsx
+
+正在讀取資料...
+共 1494 筆資料需要翻譯
+正在載入模型...
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.92s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  1.87s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.03s/it]
+模型載入完成
+
+開始翻譯...
+進度: 1/1494 (0.1%)
+  檳榔 -> Areca nuts
+  檳榔 -> Areca nuts
+  羌活 -> 英文翻譯：Acorus
+  爐甘石 -> 英文翻譯：Lung Ching
+  ⿱草 -> Chinese herb name: ⿱草
+  藿香葉 -> 英文翻譯：Perilla Leaf
+  檳榔 -> Areca
+  鼠坌土 -> Mouse Dung Soil
+  牛蒡子 -> 英文名稱：Arctium lappa
+進度: 10/1494 (0.7%)
+  茹茹 -> I'm sorry, but "茹茹" is not a known Chinese medicine or herb. Can you please provide the correct name or a more specific context?
+  茹茹 -> I'm sorry, but "茹茹" is not a known Chinese medicine or herb. Could you please provide the correct or more specific name?
+  水蛭 -> Water bug
+  䗪蟲 -> 英文翻譯：Cucujus cinnaberinus
+  䜴 -> Please provide the Chinese medicinal material name: 䜴.
+  藥方註記 -> Please provide the Chinese medicinal material names for translation into standard English names (using Latin names or common English names).
+  藥方註記 -> The Chinese medicine name is "Fangzhuangzhe".
+  生薑 -> Ginger
+  藥方註記 -> The Chinese medicine name is not provided. Please provide the Chinese medicine name to continue.
+  丁香 -> Fructus Cymbopagi
+進度: 20/1494 (1.3%)
+  丁香 -> Fructus Cymbopagi
+  三稜 -> Trillium
+  沉香 -> Ambergris
+  不灰木 -> Pueraria lobata
+  肉桂 -> Cinnamon
+  成藥名 -> Chengyaoming
+  丹參 -> Salvia miltiorrhiza
+  丹參 -> Salvia miltiorrhiza
+  硃砂 -> Cinnabar
+  硃砂 -> Cinnabar
+進度: 30/1494 (2.0%)
+  丹砂 -> Cinnabar
+  乳香 -> Gum Arabic
+  乳香 -> Gum Arabic
+  鱺魚 -> Lachryma (Lachrymaria sibirica)
+  乾地黃 -> Radix Rehmanniae
+  乾地黃 -> Radix Dioscorea
+  乾薑 -> Ginger
+  山藥 -> 英文翻譯：Dioscorea opposita
+  乾漆 -> Ganoderma lucidum (Ganodermaceae)
+  生薑 -> Ginger
+進度: 40/1494 (2.7%)
+  生薑 -> Ginger
+  胭脂 -> 胭脂的英文翻譯是："Rouge"。
+  荷葉 -> Lotus leaf
+  菊花 -> Chrysanthemum
+  葛根 -> Radix Dioscorea
+  葛花 -> Peony flower
+  葛根飲 -> Radix Dioscoreae
+  蒲桃 -> 英文翻譯：Mangosteen
+  乾薑 -> Ginger
+  乾薑 -> Ginger
+進度: 50/1494 (3.3%)
+  藍 -> Blue
+  全蠍 -> 英文翻譯：Craspedocephala aculeata
+  全蠍 -> 英文翻譯：Scorpion
+  雞屎 -> 雞屎 (Ji Si)
+  乾地黃 -> Radix Rehmanniae
+  乾薑 -> Ginger
+  大棗 -> Radix Astragali
+  乾漆 -> Ganoderma lucidum (Ganodermaceae)
+  生薑 -> Ginger
+  生薑 -> Ginger
+進度: 60/1494 (4.0%)
+  胭脂 -> 胭脂的英文翻譯為："Rouge"。
+  葛根 -> Radix Dioscorea
+  乾薑 -> Ginger
+  全蠍 -> 英文翻譯：Scorpion
+  食鹽 -> Salt
+  亂髮 -> Ratanhyal
+  血餘炭 -> 英文翻譯：Haematoxylum campechianum
+  血餘炭 -> Haematoxylum campechianum
+  五倍子 -> Wutai Zi
+  五加皮 -> English translation: Sophora flavescens
+進度: 70/1494 (4.7%)
+  五味子 -> Schisandra chinensis
+  五靈脂 -> Wulingzhi
+  三稜 -> Trillium
+  墨 -> Mo
+  人參 -> Ginseng
+  人參 -> Ginseng
+  人參 -> Ginseng
+  人牙 -> 人牙 (Human teeth)
+  人糞 -> 人糞 (Human excrement)
+  人中白 -> Zhen Zhu Bai
+進度: 80/1494 (5.4%)
+  人中白 -> 英文翻譯：Pellitory of the Wall
+  人參 -> Ginseng
+  人中白 -> Zhen Zhu Bai
+  仙靈皮 -> Sheng Ling Pi
+  代赭石 -> Taidizhi
+  代赭石 -> Taidizhi
+  何首烏 -> Radix Polygonati
+  使君子 -> Prunus mume
+  砒霜 -> 英文翻譯：Arsenic
+  附子 -> Radix Aconiti
+進度: 90/1494 (6.0%)
+  玄參 -> Radix Scutellariae
+  芫花 -> Wormwood
+  硃砂 -> Cinnabar
+  硃砂 -> Cinnabar
+  硼砂 -> Boric acid
+  硃砂 -> Cinnabar
+  菟絲子 -> Fructus Cuscutae
+  全蠍 -> 英文翻譯：Craspedocephalinae
+  雞內金 -> 英文翻譯：Gallbladder (of Chicken)
+  具齒 -> Zingiber officinale
+進度: 100/1494 (6.7%)
+  麥門冬 -> Acorus gramineus
+  瓜蔞 -> Radix Trichosanthis
+  冬葵子 -> Burdock seed
+  冬瓜仁 -> Radix Astragali
+  冬瓜皮 -> Radix Astragali
+  決明子 -> 英文名稱：Cassia Seed
+  陳皮 -> Tangerine peel
+  凝水石 -> Wollastonite
+  青皮 -> Qingpi
+  前胡 -> Fangfructus
+進度: 110/1494 (7.4%)
+  前胡 -> 英文翻譯：Fangfructus
+  前胡 -> Fangfructus
+  藥方註記 -> Please provide the list of Chinese medicinal materials you want me to translate into standard English names (using Latin names or common English names).
+  橘紅 -> Orange peel
+  五味子 -> Fructus五味子
+  五味子 -> Schisandra chinensis
+  五味子 -> Schisandra chinensis
+  五靈脂 -> Wulingzhi
+  桔梗 -> Radix Glycyrrhizae Uralensis
+  桔梗 -> Radix Glycyrrhizae Uralensis
+進度: 120/1494 (8.0%)
+  大棗 -> Radix Astragali
+  甘草 -> Glycyrrhiza glabra
+  細辛 -> 英文翻譯：Asarum caudatum
+  黃耆 -> Radix Astragali
+  黃芩 -> Fructus Scutellariae
+  硇砂別名 -> Rhizoma Atractylodis
+  續隨子 -> Parthenolide
+  升麻 -> Radix Sophorae Flos
+  升麻 -> Rhaponticum Carthamoides
+  升麻 -> Radix Sophorae Flavescentis
+進度: 130/1494 (8.7%)
+  半夏 -> Radix Pseudostellariae
+  半夏 -> Radix Pseudostellariae
+  半夏 -> Radix Pseudostellariae
+  半夏 -> Radix Pseudostellariae
+  乳香 -> Gum Arabic
+  南星 -> 英文翻譯：Dendrobium
+  木香 -> Muxiang
+  硼砂 -> Boric acid
+  木占斯 -> Muscus
+  卷柏 -> Reedstem
+進度: 140/1494 (9.4%)
+  卷柏 -> Reedstem
+  厚朴 -> Paeonia lactiflora
+  黃柏 -> Phellodendron amurense
+  黃柏 -> Phellodendron amurense
+  防風 -> 英文名稱：Anemarrhena asphodeloides Bunge
+  古銅 -> Gǔtóng
+  吳茱萸 -> Wu Jue Xi
+  吳茱萸 -> Wu Jue Xi
+  成藥名 -> Chengyaoming
+  吳茱萸 -> Dong Quai
+進度: 150/1494 (10.0%)
+  吳茱萸 -> Wu Jue Xi
+  吳茱萸 -> 英文翻譯：Coptis chinensis
+  藍 -> Blue
+  訶子 -> 英文翻譯：Hua Shi
+  商陸 -> Radix Euphorbiae
+  蕎麥粉 -> Millet flour
+  鉛丹 -> Lead sulfide
+  當歸 -> Radix当归
+  白芷 -> White Angelica
+  硃砂 -> Cinnabar
+進度: 160/1494 (10.7%)
+  川芎 -> Paeonia lactiflora
+  土瓜根 -> English translation:
+  地丁 -> Dizong
+  地榆 -> Agrimony
+  地榆 -> Agrimony
+  地脈草 -> Glycyrrhiza uralensis
+  地膽 -> Dongchi
+  地蜈蚣 -> 英文翻譯：Scorpion Tail
+  地骨皮 -> Fructus Ligustici
+  地骨皮 -> Fructus Tribuli
+進度: 170/1494 (11.4%)
+  麥門冬 -> Acorus gramineus
+  地黃 -> Radix Polygonati
+  地龍 -> 英文翻譯：Batrachoseps grandis
+  藥草名 -> Please provide the list of Chinese herbal medicine names you would like me to translate into standard English names.
+  胭脂 -> 胭脂的英文翻譯為："Rouge"。
+  柳枝 -> Willow Bark
+  墨 -> Mo
+  牆骨 -> Wall bone
+  油 -> Oil
+  夜明砂 -> Night-soil
+進度: 180/1494 (12.0%)
+  大戟 -> Euphorbia
+  檳榔 -> Areca
+  大棗 -> Radix Astragali
+  天南星 -> Tian Nansheng
+  厚朴 -> Paeonia lactiflora
+  熟地黃 -> Radix Rehmanniae Praeparata
+  天南星 -> Tian Nansheng
+  山豆根 -> Radix Sophorae Flavescentis
+  川烏 -> 英文翻譯：Aconitum carmichaeli
+  大戟 -> Euphorbia
+進度: 190/1494 (12.7%)
+  木瓜 -> Papaya
+  黃柏 -> Phellodendron amurense
+  大棗 -> Radix Astragali
+  甘遂 -> Radix Gentiana
+  當歸 -> Radix Angelicae Sinensis
+  硃砂 -> Cinnabar
+  車螯 -> Carapace
+  大腹皮 -> Da Fu Pi
+  大腹皮 -> Da Fu Pi
+  大腹皮 -> Da Fu Pi
+進度: 200/1494 (13.4%)
+  草烏 -> Aconitum carmichaeli
+  大薊 -> Agrimony
+  蝦蟆 -> Rana temporaria
+  黑豆 -> Black bean
+  大豆黃卷 -> Daizuanguan
+  遠志 -> Radix Polygalae
+  附子 -> Aconitum
+  大青 -> Da Qing
+  香附 -> Fritillaria cirrhosa
+  大麥 -> Barley
+進度: 210/1494 (14.1%)
+  麥芽 -> Milk vetch root
+  大麥粉 -> Barley flour
+  火麻仁 -> English translation: Jujube seed
+  大黃 -> Rheum palmatum
+  大黃 -> Rheum palmatum
+  瓜蔞 -> Radix Trichosanthis
+  大棗 -> Radix Astragali
+  天麻 -> Tien Ma
+  天雄 -> Tianshuang
+  天仙子 -> Belladonna
+進度: 220/1494 (14.7%)
+  天南星 -> 英文名稱：Arisaema koidzumii
+  烏藥 -> 英文名稱：Ligusticum wallichii (Bunge) H. Ohba
+  天竺黃 -> Tinospora cordifolia
+  天竺黃 -> Tinospora Cordifolia
+  天花粉 -> Paeoniflorin
+  天蘿 -> Tien Luo
+  天門冬 -> Acorus
+  天雄 -> Tianshuang
+  天靈蓋 -> TianLingGai
+  天靈蓋 -> Tianlinggui
+進度: 230/1494 (15.4%)
+  天麻 -> Tianma
+  墨 -> Mo
+  大棗 -> Radix Astragali
+  胭脂 -> 胭脂的英文翻譯為 "Rouge"。
+  藥方註記 -> The Chinese medicine name is not provided. Please provide the Chinese medicine name to proceed with the translation.
+  藥方註記 -> Please provide the list of Chinese medicinal materials you want me to translate into standard English names (using Latin names or common English names).
+  藥方註記 -> The Chinese medicine name is not provided. Please provide the Chinese medicine name to proceed with the translation.
+  乾薑 -> Ginger
+  薑黃 -> Turmeric
+  威靈仙 -> Radix Trichosanthis
+進度: 240/1494 (16.1%)
+  黃芩 -> Fructus Scutellariae
+  茯苓 -> Poria
+  安息香 -> Benzoin
+  肉桂 -> Cinnamon
+  註記 -> 註記: Please provide the Chinese medicine names you would like me to translate.
+  粉葛 -> Pueraria lobata
+  生薑 -> Ginger
+  寒水石 -> Henshan stone
+  寒水石 -> Henshan stone
+  寒水石 -> Hematite
+進度: 250/1494 (16.7%)
+  寒水石 -> Henselian stone
+  枳實 -> Zhi Shi
+  射干 -> Radix Trigonella
+  射罔 -> Radix Bupleuri
+  麝香 -> Musk
+  大黃 -> Rheum palmatum
+  服藥法 -> The translation: "Fuyao Fa"
+  小茴香 -> Fennel
+  小草 -> 小草的英文翻譯為 "Small Grass" 或 "Grass Herb"。
+  赤小豆 -> Red Adzuki Bean
+進度: 260/1494 (17.4%)
+  赤小豆 -> Red Adzuki Bean
+  露蜂房 -> Part #1: Translate the Chinese medicinal herb name into standard English name (using Latin name or common English name).
+  小麥 -> Triticum aestivum
+  小麥粉 -> Triticum aestivum meal
+  屁盤蟲 -> Parthenopseis
+  犀角 -> Rhino horn
+  大黃 -> Rheum palmatum
+  梔子 -> Ziziphus jujuba
+  梔子 -> Ziziphus jujuba
+  梔子 -> Ziziphus jujuba
+進度: 270/1494 (18.1%)
+  山藥 -> 英文翻譯：Yam
+  山慈菇 -> Fritillariae Meleagris
+  山慈菇 -> Fritillariae Meleagris
+  山茱萸 -> 山茱萸的英文翻譯為 Cornus officinalis。
+  山茱萸 -> 山茱萸的英文名稱為 Cornus officinalis。
+  山茱萸 -> Shengzhuyu
+  山茱萸 -> 山茱萸的英文翻譯為：Cornus officinalis。
+  山藥 -> 英文翻譯：Dioscorea opposita
+  山蜈蚣 -> 英文翻譯：Mountaineer centipede
+  山豆根 -> Radix Sophorae Flavescentis
+進度: 280/1494 (18.7%)
+  川芎 -> Dong Quai
+  升麻 -> Radix Sophorae Flos
+  大黃 -> Rheum palmatum
+  大黃 -> Rheum palmatum
+  大黃 -> Rheum palmatum
+  穿山甲 -> Pangolin
+  朴硝 -> Potassium nitrate
+  川椒 -> Zanthoxylum schinifolium
+  川椒 -> Zanthoxylum schinifolium
+  川楝子 -> Prunus mume
+進度: 290/1494 (19.4%)
+  川烏 -> 英文翻譯：Aconitum carmichaeli
+  川烏 -> Aconitum carmichaeli
+  牛膝 -> 英文名稱：Achyranthes bidentata
+  獨活 -> Radix et Rhizoma Drynariae
+  乾薑 -> Ginger
+  當歸 -> Radix Angelicae Sinensis
+  白芷 -> White Angelica
+  硝石 -> Nitrite
+  川楝子 -> Pu Gong Ying
+  白芍 -> White Peony
+進度: 300/1494 (20.1%)
+  川芎 -> 英文名稱：Angelica sinensis
+  芒硝 -> Fructose
+  川薑 -> Ginger
+  薑黃 -> Turmeric
+  白芷 -> Radix Angelicae Dahuricae
+  麻黃 -> Ma Huang
+  黃連 -> Yellow root
+  左纏藤 -> Zhoutanpi
+  胡麻仁 -> 英文翻譯：Fructus Simaruba
+  巴戟天 -> Fructus Evodiae
+進度: 310/1494 (20.7%)
+  巴戟天 -> Fructus Evodiae
+  巴豆 -> Bilzhi
+  巴豆 -> Bai Dou
+  巴豆霜 -> Bai Dou Fen
+  常山 -> Dichroa febrifuga
+  乾薑 -> Ginger
+  廣木香 -> Gastrodia elata
+  蓬莪朮 -> Pongeluo
+  廣藿香 -> 英文翻譯：Agastache rugosa
+  蜃蟲 -> 英文翻譯：Scolopendra
+進度: 320/1494 (21.4%)
+  陳皮 -> Tangerine peel
+  陳皮 -> Tangerine peel
+  延胡索 -> Fructus Trigonellae
+  茶葉 -> Tea
+  金銀花 -> English translation:
+  金銀花 -> English translation:
+  金銀花 -> English translation:
+  牛蒡子 -> 英文翻譯：Bo He
+  慎火草 -> 英文翻譯：Gentiana scabra
+  瓜蔞 -> Radix Trichosanthis
+進度: 330/1494 (22.1%)
+  青鹽 -> 青鹽 (Qīngyán)
+  瓜蔞 -> Radix Trichosanthis
+  天花粉 -> Acorus
+  瓜蔞 -> Radix Trichosanthis
+  排膿內 -> Parthenium hysterophorus
+  丁香 -> Fructus Cymbopagi
+  肉桂 -> Cinnamon
+  成藥名 -> Chengyaoming
+  川芎 -> Paeonia lactiflora
+  敗扇灰 -> Ba Shan Hui
+進度: 340/1494 (22.8%)
+  補骨脂 -> Prunus mume
+  荷葉 -> Lotus leaf
+  龜甲 -> 龜甲的英文翻譯為 "Turtle Shell"。
+  敗醬 -> Rosa multiflora
+  文蛤 -> Wenha
+  斑蝥 -> 英文名稱：Craspedia
+  斑蝥 -> Cinnabar moth (Hemiptera: Cinnabaridae)
+  枸杞子 -> 英文名稱：Goji Berries
+  狗糞 -> The given Chinese medicinal material name is "狗糞" which can be translated to "dog feces" in standard English. However, it is important to note that this is not a commonly used or accepted medicinal material and its use should be avoided in professional contexts.
+  人參 -> Ginseng
+進度: 350/1494 (23.4%)
+  蔓菁 -> Radix Trigonellae
+  白朮 -> White Atractylodes
+  旋覆花 -> Fritillaria cirrhosa
+  麥門冬 -> Acorus gramineus
+  昆布 -> Kun Bu
+  乳香 -> Gum Arabic
+  信石 -> Xinshi
+  信石 -> Xinshi
+  乳香 -> Gum Arabic
+  明礬 -> Alum
+進度: 360/1494 (24.1%)
+  明礬 -> Alum
+  明礬 -> Alum
+  醫書篇章 -> Please provide the list of Chinese medicinal material names you would like me to translate into standard English names.
+  曾青 -> Zeng Qing
+  曾青 -> Zeng Qing
+  木占斯 -> Moss
+  木蘭皮 -> Lianhua Pi
+  豬苓 -> Poria
+  木通 -> English translation:
+  木鱉子 -> 英文翻譯：Momordica charantia
+進度: 370/1494 (24.8%)
+  木香 -> Muxiang
+  木香 -> Muxiang
+  木鱉子 -> Maitake
+  木鱉子 -> N/A
+  木瓜 -> Papaya
+  木瓜根 -> Radix Bupleuri
+  茉莉香 -> Jasmine
+  硃砂 -> Cinnabar
+  芒硝 -> Fructose
+  杉木節 -> Part #1: Translate the Chinese medicinal herb name into standard English (using Latin names or common English names).
+進度: 380/1494 (25.4%)
+  李根白皮 -> Radix Rubiae Menthinae
+  李根白皮 -> Radix Astragali
+  杏仁 -> English translation: Almond
+  杏仁 -> English translation: Almond
+  杜仲 -> Eucommia
+  獨活 -> Radix Akebiae
+  茴香 -> Fennel
+  杜蘅 -> Dudong
+  松脂 -> Pine resin
+  松香 -> Glycerin
+進度: 390/1494 (26.1%)
+  松香 -> Glycerin
+  枇杷葉 -> Partridgeberry Leaf
+  明礬 -> Alum
+  枳殼 -> Pu'er
+  枳殼 -> Pu'er
+  枳實 -> Zhi Shi
+  枳實 -> Zhi Shi
+  枳殼 -> Zhiqiao
+  枳殼 -> Zhiqiao
+  枸杞 -> 英文翻譯：Goji
+進度: 400/1494 (26.8%)
+  枸杞子 -> 英文翻譯：Goji Berries
+  柏子仁 -> Parthenolide
+  柏子仁 -> Parthenolide
+  柞木葉 -> Zhua mu ye
+  柳皮 -> Rheum palmatum
+  柴胡 -> Radix Bupleuri
+  柴胡 -> Radix Bupleuri
+  梔子 -> Ziziphus jujuba
+  木耳 -> Ergot
+  木耳 -> Elderberry
+進度: 410/1494 (27.4%)
+  栗子 -> English translation: Chestnut
+  栗子 -> chestnut
+  瓜蔞 -> Radix Trichosanthis
+  瓜蔞 -> Radix Trichosanthis
+  天花粉 -> Pueraria lobata
+  柏子仁 -> 英文名稱：Gleditsia sinensis seeds
+  柏子仁 -> Part #1: Translate the given Chinese medicinal ingredient name into its standard Latin or English name.
+  柏葉 -> Ginkgo leaf
+  柏葉 -> Ginkgo biloba leaf
+  黃柏 -> Phellodendron amurense
+進度: 420/1494 (28.1%)
+  葛根 -> Radix Dioscorea
+  桂枝 -> 桂枝的英文翻譯是 "Cinnamomum cassia twig"。
+  桂心 -> Cinnamomum cassia
+  桂心 -> Cinnamomum cassia
+  桂心 -> Cinnamomum cassia
+  桂枝 -> 桂枝的英文翻譯為 "Cinnamomum cassia twig"。
+  桂花 -> Osmanthus
+  桃仁 -> Peach kernel
+  桃仁 -> Peach kernel
+  桃皮 -> Peel of Peach
+進度: 430/1494 (28.8%)
+  桃花 -> Peony
+  桐葉 -> Tongye
+  桑寄生 -> Part #1: Translate the Chinese medicinal herb name into standard English (using Latin names or common English names).
+  桑枝 -> Radix Sophorae Flos
+  桑白皮 -> Radix Sophorae Flavescentis
+  桑白皮 -> Radix Sophorae Flavescentis
+  桑螵蛸 -> 英文翻譯：Cereariae
+  桔梗 -> Radix Glycyrrhizae Uralensis
+  桔梗 -> Radix Glycyrrhizae Uralensis
+  桔梗 -> Radix Glycyrrhizae Uralensis
+進度: 440/1494 (29.5%)
+  桔梗 -> Radix Glycyrrhizae Uralensis
+  木耳 -> Eryngium ebracteatum
+  梁上塵 -> Liang Shangchen
+  黃耆 -> Radix Astragali
+  梔子 -> Ziziphus jujuba
+  梔子 -> Ziziphus jujuba
+  人參 -> Ginseng
+  檳榔 -> Areca nuts
+  大棗 -> Radix Astragali
+  花椒 -> Fagara
+進度: 450/1494 (30.1%)
+  桑寄生 -> Part #1: Translate the Chinese medicinal herb name into standard English (using Latin names or common English names).
+  桑寄生 -> Part #1: Translate the Chinese medicinal herb name into standard English (using Latin names or common English names).
+  榆白皮 -> Elm bark
+  榆白皮 -> Elm bark
+  楦子 -> Suanzila
+  楮實 -> 英文翻譯：Polygonum cyphothemum fruit
+  楸皮 -> 英文翻譯：Keqiu Pi
+  榆白皮 -> Elm bark
+  檳榔 -> Areca nuts
+  槐角 -> Part #1: Translate the given Chinese medicinal herb name into standard English (using Latin names or common English names).
+進度: 460/1494 (30.8%)
+  柳枝 -> Willow Branch
+  槐皮 -> Gleditsia sinensis
+  槐花 -> Weihua
+  樗雞 -> 英文翻譯：Chu Ji
+  樺皮 -> Ginkgo biloba
+  陳皮 -> Tangerine peel
+  橘紅 -> Orange peel
+  檀香 -> Guggul
+  檳榔 -> Areca
+  鬱金 -> 英文翻譯：Curcuma longa
+進度: 470/1494 (31.5%)
+  款冬花 -> 英文名稱：Tussilago farfara
+  款冬花 -> 英文翻譯：Tussilago farfara
+  地骨皮 -> 英文翻譯：Bupleurum root
+  當歸 -> Radix当归
+  當歸 -> Radix当归
+  當歸 -> Radix Angelicae Sinensis
+  白殭蠶 -> White Wormwood
+  丁香 -> Fructus Cymbopagi
+  鉛粉 -> Lead oxide
+  水晶 -> Crystal
+進度: 480/1494 (32.1%)
+  水晶 -> Crystal
+  水蛭 -> Water bug
+  水銀 -> Mercury
+  輕粉 -> 英文翻譯：Cinnabar
+  雀屎 -> Part 1: Translate the given Chinese medicinal herb name into its standard Latin or English name.
+  沉香 -> Ambergris
+  沉香 -> Ambergris
+  沒藥 -> Myrrh
+  沙參 -> Acorus gramineus
+  沙參 -> Acorus gramineus
+進度: 490/1494 (32.8%)
+  朱砂 -> Zhu Sha
+  沒石子 -> Wutai Zi
+  沒藥 -> Myrrh
+  沒藥 -> Myrrh
+  油 -> Oil
+  半夏 -> Radix Pseudostellariae
+  檳榔 -> Areca
+  羊桃根 -> Radix Trichosanthis
+  海桐皮 -> Houttuynia
+  海桐皮 -> Haematoxylum campechianum
+進度: 500/1494 (33.5%)
+  海藻 -> Algae
+  烏賊骨 -> Wakame
+  海金沙 -> Haematococcus
+  鉛丹 -> Lead sulfide
+  竹瀝 -> 英文名稱：Bambusoideae alkaloid extract
+  竹茹 -> Zhu Ru (竹茹)
+  淡竹葉 -> 英文翻譯：Dendrobium officinale
+  淮烏 -> 淮烏的英文翻譯是 "Huaiwu"。
+  黃牛糞 -> 英文翻譯：Cow dung
+  琥珀 -> Amber
+進度: 510/1494 (34.1%)
+  藥方註記 -> The Chinese medicine name is not provided. Please provide the Chinese medicine name to continue.
+  滑石 -> Slaked lime
+  乳香 -> Gum Arabic
+  花椒 -> Fagara
+  防己 -> Fangji
+  漢防己 -> Radix Sophorae Flavescentis
+  澤瀉 -> Zedoaria
+  澤瀉 -> Ziziphus jujuba
+  澤蘭 -> Zelan
+  濕生蟲 -> The Chinese medicinal material name "濕生蟲" cannot be directly translated into a standard English name or description. However, if you provide more context or information about the specific medicinal material, I can try to provide a more accurate translation.
+進度: 520/1494 (34.8%)
+  炊單 -> Part 1: Translate the given Chinese medicinal material name to its standard English name (using Latin name or common English name).
+  炊飯尖 -> Part 1: Identify the Chinese medicine name
+  半夏 -> Radix Pseudostellariae
+  炒麯 -> Rice Flour
+  麵粉 -> 麵粉 (Mie Fen)
+  甘草 -> Glycyrrhiza glabra
+  黃耆 -> Radix Astragali
+  炮薑 -> 英文翻譯：Boiled Ginger
+  烏梅 -> Rhus succedanea fruit
+  犀角 -> Rhino horn
+進度: 530/1494 (35.5%)
+  烏藥 -> Urtica
+  烏蛇 -> 英文翻譯：Black Snake
+  烏賊骨 -> Wan Zhi Gu
+  烏金石 -> Tanzanite
+  烏頭 -> Aconitum
+  烏頭 -> Aconitum
+  烏賊骨 -> Wakame
+  炮製法 -> The process of preparing medicinal herbs.
+  鍾乳 -> Zongnu
+  牆土 -> Wall soil
+進度: 540/1494 (36.1%)
+  蔥 -> Chinese medicine name: scallion
+  熏陸香 -> 英文翻譯：Amomum tsaugeranum
+  熟地黃 -> Radix Rehmanniae Preparata
+  熟地黃 -> Radix Rehmanniae Praeparata
+  熟地黃 -> Radix Rehmanniae Praeparata
+  熟地黃 -> Radix Rehmanniae Preparata
+  熟地黃 -> Radix Rehmanniae Praeparata
+  黑豆 -> Black bean
+  熟地黃 -> Radix Rehmanniae Preparata
+  熟地黃 -> Radix Rehmanniae Praeparata
+進度: 550/1494 (36.8%)
+  熟地黃 -> Rehmannia glutinosa
+  燈心草 -> 英文翻譯：Reed Canary Grass
+  藥方名 -> Please provide the list of Chinese herbal medicine names for translation.
+  爐甘石 -> Lungganzhi
+  生薑 -> Ginger
+  薑黃 -> Turmeric
+  薑黃 -> Turmeric
+  薑黃 -> Turmeric
+  龍腦 -> 英文翻譯：Benzoin
+  生薑 -> Ginger
+進度: 560/1494 (37.5%)
+  牛乳 -> Milk
+  牛糞 -> 牛糞 (cow dung)
+  牛蒡子 -> 英文翻譯：Arctium lappa
+  牛膠 -> Gelatin
+  牛筋 -> 英文翻譯：Bovine Achilles Tendon
+  牛腦 -> 英文翻譯：Bull's Brain
+  牛膝 -> 英文翻譯：Achyranthes bidentata
+  大黃 -> Rheum palmatum
+  牛蒡子 -> 英文翻譯：Bo He
+  牛蒡 -> 英文翻譯：Arctium lappa
+進度: 570/1494 (38.2%)
+  牛髓 -> 英文翻譯：Bovine Bone Marrow
+  牛黃 -> Amber
+  牡丹皮 -> Peony Root
+  牡丹皮 -> Peony Root
+  牡蠣 -> 英文名稱：Ostrea
+  牡蠣 -> 英文翻譯：Ostrea
+  牡蠣 -> 英文翻譯：Ostrea
+  遠志 -> Radix Polygalae
+  牽牛子 -> Radix Trichosanthis
+  牽牛子 -> Radix Trichosanthis
+進度: 580/1494 (38.8%)
+  牽牛子 -> Radix Trichosanthis
+  牽牛子 -> Radix Trichosanthis
+  牽牛子 -> Radix Trichosanthis
+  犀角 -> Rhino horn
+  犀角 -> Rhino horn
+  人參 -> Panax ginseng
+  犀角 -> Rhino horn
+  狗寶 -> Canthaxanthin
+  狗膽 -> Dog bile
+  狗骨 -> Dog bone
+進度: 590/1494 (39.5%)
+  狗骨 -> The Chinese medicine name "狗骨" can be translated into English as "Dog bone".
+  狗骨 -> Dog bone
+  狼毒 -> Wolfiporia erinacei
+  狼牙 -> Wolfberry
+  狼牙 -> Wolfberry
+  狼牙 -> Wolfberry
+  豬心 -> Pig's heart
+  皂角 -> Gleditsia sinensis
+  皂角 -> Gleditsia sinensis
+  豬脂 -> Sheep fat
+進度: 600/1494 (40.2%)
+  豬脂 -> Sheep fat
+  豬膏 -> 豬膏的英文翻譯為 "Pig Fat"。
+  豬苓 -> Poria
+  豬蹄 -> Pig trotter
+  豬糞 -> The Chinese medicine name "猪粪" translates to "pig manure" in standard English.
+  獨活 -> Radix et Rhizoma Drynariae
+  獨活 -> Radix et Rhizoma Drynariae
+  獨蓮 -> Dulichun
+  大蒜 -> Garlic
+  獺肝 -> Delphinus domesticus liver
+進度: 610/1494 (40.8%)
+  玉屑 -> Yushu
+  王不留行 -> Rangiwala
+  玳瑁 -> Daiwai
+  珍珠 -> Pearl
+  珍珠 -> Pearl
+  斑蝥 -> Bdellium
+  琥珀 -> Amber
+  琥珀 -> Amber
+  瓜蒂 -> Fructus Amomi
+  瓜蔞 -> Radix Trichosanthis
+進度: 620/1494 (41.5%)
+  甘草 -> Glycyrrhiza glabra
+  李根白皮 -> Radix Astragali
+  李根白皮 -> Radix Rubus
+  李根白皮 -> Radix Astragali
+  甘松 -> Ginseng
+  甘草 -> Glycyrrhiza glabra
+  甘草 -> Glycyrrhiza glabra
+  甘草 -> Glycyrrhiza glabra
+  菊花 -> Chrysanthemum
+  菊花 -> Chrysanthemum
+進度: 630/1494 (42.2%)
+  芭蕉根 -> Banlanggo root
+  甘遂 -> Radix Gentianae
+  桃仁 -> Peach kernel
+  芒硝 -> Fructose
+  葶藶 -> Radix Bupleuri
+  甜瓜子 -> Cantaloupe seed
+  甜瓜根 -> Radix Trichosanthis
+  生地黃 -> Radix Rehmanniae
+  乾地黃 -> Radix Rehmanniae
+  生地黃 -> Radix Rehmanniae
+進度: 640/1494 (42.8%)
+  生地黃 -> Radix Rehmanniae
+  生地黃 -> Radix Rehmanniae
+  生薑 -> Ginger
+  人骨 -> Human bone
+  半夏 -> Radix Pseudostellariae
+  生地黃 -> Radix Rehmanniae
+  生地黃 -> Radix Rehmanniae
+  生地黃 -> Radix Rehmanniae
+  黑豆 -> Black bean
+  大黃 -> Rheum palmatum
+進度: 650/1494 (43.5%)
+  生薑 -> Ginger
+  服藥法 -> The translation: "Pharmaceutical Method"
+  李根白皮 -> Radix Astragali
+  柏葉 -> Ginkgo leaf
+  花椒 -> Fagara
+  犀角 -> Rhino horn
+  犀角 -> Rhino horn
+  玳瑁 -> Daiwai
+  甘草 -> Glycyrrhiza glabra
+  竹茹 -> Zhu Ru
+進度: 660/1494 (44.2%)
+  甘草 -> Glycyrrhiza glabra
+  黃耆 -> Radix Astragali
+  萎蕤 -> Wimi
+  葛根 -> Radix Dioscorea
+  葛根 -> Radix Dioscorea
+  薄荷 -> Mentha
+  生薑 -> Ginger
+  藕汁 -> 英文翻譯：Lotus Root Juice
+  馬齒莧 -> English translation: Portulaca oleracea
+  麝香 -> 麝香
+進度: 670/1494 (44.8%)
+  麥門冬 -> Acorus gramineus
+  黃芩 -> Radix Scutellariae
+  瓜蔞 -> Radix Trichosanthis
+  龍骨 -> 英文翻譯：Dragon Bone

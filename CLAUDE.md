@@ -49,14 +49,20 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Configuration
 
-⚠️ **重要**: `disaese_server.py` 要求 `config.yaml` 文件存在且格式正確，否則程式會立即退出。
+⚠️ **關鍵依賴**: `disaese_server.py` **必須**有 `config.yaml` 文件，否則程式會立即終止執行。
 
-### 配置文件結構 (config.yaml)
-- **model**: 模型路徑和生成參數 (max_new_tokens, temperature, top_p 等)
-- **translation**: 翻譯配置 (token 限制、prompt 模板)
-- **files**: 檔案路徑和輸出格式 (control_file, folder_path, volume_regex, 輸出檔案命名格式)
-- **logging.server**: 日誌配置 (檔案名稱、大小限制、備份數量)
-- **system**: 系統參數 (CUDA 設定、記憶體清理開關)
+### config.yaml 必要配置項目
+- **model.path**: 模型路徑（本地絕對路徑或 HuggingFace 模型名稱）
+- **model.generation**: 生成參數 (max_new_tokens, temperature, top_p)
+- **translation.max_context_tokens**: 上下文 token 限制 (預設 3800)
+- **translation.prompt_template**: Prompt 模板（必須包含 `{context_paragraph}` 和 `{term}` 變數）
+- **files.control_file**: 控制檔案的完整路徑
+- **files.folder_path**: 目標檔案和輸出檔案的資料夾路徑
+- **files.volume_regex**: 從檔名提取卷號的正則表達式
+- **files.output**: 輸出檔案命名格式 (batch_format, single_format, date_format)
+- **logging.server**: 日誌配置
+- **system.cuda_alloc_conf**: CUDA 記憶體配置
+- **system.memory_cleanup**: 是否在翻譯後清理 GPU 記憶體
 
 ## Common Commands
 
@@ -85,9 +91,9 @@ python3 -m py_compile translation_disaese.py
 ## File Structure Patterns
 
 ### Input Data Files
-- **Control File**: `7_附論段落.xlsx` (提供上下文段落)
-- **Target Files**: `classified_section_卷XXX.xlsx` (包含待翻譯的中醫詞條)
-- **Reference Data**: `草藥名稱標準化對照表.csv`
+- **Control File**: `7_附論段落.xlsx` (提供上下文段落，包含 `no`、`section`、`disease_content` 欄位)
+- **Target Files**: `classified_section_卷XXX.xlsx` (包含待翻譯的中醫詞條，包含 `disease`、`section` 欄位)
+- **Control File 路徑**: 必須在 `config.yaml` 的 `files.control_file` 中正確設定
 
 ### Output Files
 - **多檔案格式**: `上下文引導翻譯報告_卷XXX-卷XXX_YYYYMMDD.xlsx` (合併多卷)
@@ -100,12 +106,13 @@ python3 -m py_compile translation_disaese.py
 - `translation_disaese.py` 是原始獨立批次處理程式，應保持不變
 - 所有新功能和改進應在 `disaese_server.py` 中實作
 - `disaese_server.py` 已改為批次處理模式，不再使用 TCP socket
+- **無硬編碼原則**: 所有配置參數必須從 `config.yaml` 讀取，程式中不應包含任何硬編碼的路徑或備用值
 
 ### Model Usage Patterns
 - 使用 `AutoTokenizer` 和 `AutoModelForCausalLM` 載入模型
 - 設定 `torch_dtype="auto"` 和 `device_map="auto"` 進行最佳化配置
 - 翻譯後執行 `gc.collect()` 和 `torch.cuda.empty_cache()` 清理記憶體（可在 config.yaml 中透過 `system.memory_cleanup` 控制）
-- 支援智能模型路徑處理：本地路徑不存在時自動從 HuggingFace 下載
+- **模型路徑驗證**: 如果 `config.yaml` 中指定的本地路徑不存在，程式會立即終止並顯示錯誤訊息（不使用任何硬編碼的備用路徑）
 
 ### Token Length Management
 - **Model Limit**: 最大序列長度為 4096 tokens

@@ -1,0 +1,44 @@
+﻿AID,SID,CID,Activity_Outcome,Target_Accession,Target_GeneID,Activity_Value_uM,Activity_Name,Assay_Name,Assay_Type,PubMed_ID,Mol_id
+1612079,103581571,5281515,Active,P34972,1269,0.15,Ki,Displacement of [3H]CP55940 from human CB2 expressed in CHOK1 cell membranes after 2 hrs by liquid scintillation counting method,Confirmatory,30096653,2498
+1612080,103581571,5281515,Active,P34972,1269,1.9,EC50,Agonist activity at recombinant human Cb2 receptor expressed in CHOK1 cells assessed as inhibition of forskolin-stimulated cAMP levels measured up to 30 mins by luminescence assay,Confirmatory,30096653,2498
+1938300,103581571,5281515,Active,Q07869,5465,9.58,EC50,Agonist activity at PPARalpha (unknown origin),Confirmatory,33992930,2498
+880,26754425,5281515,Inactive,AAC39835,6002,,,qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore),Confirmatory,,2498
+880,26754425,5281515,Inactive,NP_002060,2770,,,qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore),Confirmatory,,2498
+881,26754425,5281515,Inactive,O15296,247,,Potency,qHTS Assay for Inhibitors of 15-hLO-2 (15-human lipoxygenase 2),Confirmatory,,2498
+884,26754425,5281515,Inactive,NP_059488,1576,,Potency,qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4,Confirmatory,,2498
+885,26754425,5281515,Inactive,NP_059488,1576,,Potency,qHTS Assay for Activators of Cytochrome P450 3A4,Confirmatory,,2498
+887,26754425,5281515,Inactive,AAC52118,246,,Potency,qHTS Assay for Inhibitors of 15-hLO (15-human lipoxygenase),Confirmatory,,2498
+889,26754425,5281515,Inactive,P55210,840,,Potency,qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-7,Confirmatory,,2498
+1612079,103581571,5281515,Active,P34972,1269,0.15,Ki,Displacement of [3H]CP55940 from human CB2 expressed in CHOK1 cell membranes after 2 hrs by liquid scintillation counting method,Confirmatory,30096653,2500
+1612080,103581571,5281515,Active,P34972,1269,1.9,EC50,Agonist activity at recombinant human Cb2 receptor expressed in CHOK1 cells assessed as inhibition of forskolin-stimulated cAMP levels measured up to 30 mins by luminescence assay,Confirmatory,30096653,2500
+1938300,103581571,5281515,Active,Q07869,5465,9.58,EC50,Agonist activity at PPARalpha (unknown origin),Confirmatory,33992930,2500
+880,26754425,5281515,Inactive,AAC39835,6002,,,qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore),Confirmatory,,2500
+880,26754425,5281515,Inactive,NP_002060,2770,,,qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore),Confirmatory,,2500
+881,26754425,5281515,Inactive,O15296,247,,Potency,qHTS Assay for Inhibitors of 15-hLO-2 (15-human lipoxygenase 2),Confirmatory,,2500
+884,26754425,5281515,Inactive,NP_059488,1576,,Potency,qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4,Confirmatory,,2500
+885,26754425,5281515,Inactive,NP_059488,1576,,Potency,qHTS Assay for Activators of Cytochrome P450 3A4,Confirmatory,,2500
+887,26754425,5281515,Inactive,AAC52118,246,,Potency,qHTS Assay for Inhibitors of 15-hLO (15-human lipoxygenase),Confirmatory,,2500
+889,26754425,5281515,Inactive,P55210,840,,Potency,qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-7,Confirmatory,,2500
+400125,103580488,3080635,Unspecified,P09917,240,25.1,IC50,Inhibition of 5-lipoxygenase,Confirmatory,9544564,2682
+400126,103580488,3080635,Unspecified,P23219,5742,200,IC50,Inhibition of COX1,Confirmatory,9544564,2682
+401452,103580488,3080635,Unspecified,P25409,81670,,,Effect on GPT in rat hepatocytes relative to control,Other,6418860,2682
+437579,103579906,5742590,Active,O43741,5565,,,Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose,Other,19716700,2655
+437579,103579906,5742590,Active,P54619,5571,,,Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose,Other,19716700,2655
+437579,103579906,5742590,Active,P54646,5563,,,Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose,Other,19716700,2655
+437579,103579906,5742590,Active,Q13131,5562,,,Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose,Other,19716700,2655
+437579,103579906,5742590,Active,Q9UGI9,53632,,,Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose,Other,19716700,2655
+437579,103579906,5742590,Active,Q9UGJ0,51422,,,Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose,Other,19716700,2655
+437579,103579906,5742590,Active,Q9Y478,5564,,,Induction of AMPK phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose,Other,19716700,2655
+437580,103579906,5742590,Active,P49841,2932,,,Induction of GSK3-beta phosphorylation in human HepG2 cells at 10 uM by Western blot analysis in presence of 33 mM glucose,Other,19716700,2655
+379521,103579906,5742590,Inactive,P18031,5770,,,Inhibition of PTP1B at 50 uM,Other,17125236,2655
+402618,103579906,5742590,Unspecified,P06746,5423,26.5,IC50,Inhibition of DNA polymerase beta lyase activity,Confirmatory,15165161,2655
+1822,26665736,72,Active,CAD52000,813594,,,QFRET-based primary biochemical high throughput screening assay to identify inhibitors of the Plasmodium falciparum M18 Aspartyl Aminopeptidase (PFM18AAP).,Screening,,2489
+2100,26665736,72,Active,NP_000143,2548,5.0119,Potency,qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase Cleavage of Glycogen,Confirmatory,,2489
+2170,26665736,72,Active,CAD52000,813594,,,QFRET-based biochemical high throughput confirmation assay for inhibitors of the Plasmodium falciparum M18 Aspartyl Aminopeptidase (PFM18AAP).,Screening,,2489
+2195,26665736,72,Active,CAD52000,813594,0.4794,IC50,QFRET-based biochemical high throughput dose response assay for inhibitors of the Plasmodium falciparum M18 Aspartyl Aminopeptidase (PFM18AAP).,Confirmatory,,2489
+485314,26665736,72,Active,NP_002681,5423,25.1189,Potency,qHTS Assay for Inhibitors of DNA Polymerase Beta,Confirmatory,,2489
+485317,26665736,72,Active,NP_005253,2671,,,HTS-Luminescent assay for inhibitors of ALR by detection of hydrogen peroxide production Measured in Biochemical System Using Plate Reader - 2036-02_Inhibitor_SinglePoint_HTS,Screening,,2489
+492975,87693008,72,Active,XP_001352189,813594,,,Late stage assay provider results from the probe development effort to identify inhibitors of the Plasmodium falciparum M18 Alanyl Aminopeptidase (PfM18AAP): fluorescence-based biochemical assay to identify inhibitors of malaria cell lysate,Screening,,2489
+568362,103211071,72,Active,P00915,759,1.08,Ki,Inhibition of human carbonic anhydrase 1 preincubated for 15 mins by CO2 hydration stopped-flow assay,Confirmatory,21282059,2489
+568363,103211071,72,Active,P00918,760,0.47,Ki,Inhibition of human carbonic anhydrase 2 preincubated for 15 mins by CO2 hydration stopped-flow assay,Confirmatory,21282059,2489
+568364,103211071,72,Active,Q16790,768,4.45,Ki,Inhibition of human carbonic anhydrase 9 preincubated for 15 mins by CO2 hydration stopped-flow assay,Confirmatory,21282059,2489

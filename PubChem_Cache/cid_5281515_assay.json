@@ -1,0 +1,7401 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Activity Outcome",
+        "Target Accession",
+        "Target GeneID",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Assay Type",
+        "PubMed ID",
+        "RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "875",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "1OQA_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Green Fluorophore)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "880",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "AAC39835",
+          "6002",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "880",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_002060",
+          "2770",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "881",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "O15296",
+          "247",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of 15-hLO-2 (15-human lipoxygenase 2)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "884",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_059488",
+          "1576",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "885",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_059488",
+          "1576",
+          "",
+          "Potency",
+          "qHTS Assay for Activators of Cytochrome P450 3A4",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "887",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "AAC52118",
+          "246",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of 15-hLO (15-human lipoxygenase)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "889",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "P55210",
+          "840",
+          "",
+          "Potency",
+          "qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-7",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "892",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "1OQA_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Red Fluorophore)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "893",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "2O23_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase 4",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "893",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "2O23_B",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase 4",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "894",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_000851",
+          "3248",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of HPGD (15-Hydroxyprostaglandin Dehydrogenase)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "900",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_150634",
+          "834",
+          "",
+          "Potency",
+          "qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "901",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "P97697",
+          "83523",
+          "",
+          "Potency",
+          "qHTS Assay for Identifying the Cell-Membrane Permeable IMPase Inhibitors",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "902",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_000537",
+          "7157",
+          "",
+          "Potency",
+          "qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations: Cytotoxicity of p53ts Cells at the Nonpermissive Temperature",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1: Spectroscopic Profiling in AFC Spectral Region",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "924",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_000537",
+          "7157",
+          "",
+          "Potency",
+          "qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations: Cytotoxicity of p53ts Cells at the Permissive Temperature",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "995",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_002736",
+          "5594",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening Assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1030",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "AAP35567",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1379",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "BAA05005",
+          "",
+          "",
+          "Potency",
+          "Counterscreen for Luciferase (Kinase-Glo TM) Inhibition",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1452",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_000688",
+          "239",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of 12-hLO (12-human lipoxygenase)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1454",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_002736",
+          "5594",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening Assay; Stimulation with EGF",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1457",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "P97697",
+          "83523",
+          "",
+          "Potency",
+          "qHTS Assay for Identifying the Cell-Membrane Permeable IMPase Inhibitors: Potentiation with Lithium",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1460",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "AAI14949",
+          "4137",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Tau Fibril Formation, Thioflavin T Binding",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1463",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "Counterscreen qHTS for Inhibitors of Tau Fibril Formation, Fluorescence Polarization",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1467",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "CAA29232",
+          "2717",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Human alpha-Galactosidase at pH 4.5.",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1468",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "AAI14949",
+          "4137",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Tau Fibril Formation, Fluorescence Polarization",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1469",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_001121649",
+          "7068",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid Receptor Coregulator 2",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1471",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_002102",
+          "3064",
+          "",
+          "",
+          "qHTS Multiplex Assay to Identify Dual Action Probes in a Cell Model of Huntington: Cytoprotection (ATP)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1476",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "3I06_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (without detergent)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1477",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1 for the Treatment of Acute Myeloid Leukemia",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1478",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "3I06_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (with detergent)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1479",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_001121649",
+          "7068",
+          "",
+          "Potency",
+          "Total Fluorescence Counterscreen for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid Receptor Coregulator 2",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1490",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "AAG24257",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Bacillus subtilis Sfp phosphopantetheinyl transferase (PPTase)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1519",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Lipid Storage Modulators",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1766",
+          "",
+          "26754425",
+          "5281515",
+          "Inconclusive",
+          "NP_000235",
+          "4221",
+          "39.8107",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Fluorescein Labeled MLL-derived Peptide",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1766",
+          "",
+          "26754425",
+          "5281515",
+          "Inconclusive",
+          "NP_005924",
+          "4297",
+          "39.8107",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Fluorescein Labeled MLL-derived Peptide",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1768",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_000235",
+          "4221",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Texas Red Labeled MLL-derived Mutant Peptide",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1768",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_005924",
+          "4297",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Texas Red Labeled MLL-derived Mutant Peptide",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1865",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "Quantitative High-Throughput Screen for Regulators of Epigenetic Control",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1948",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Compounds that Induce Erasure of Genomic Imprints",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2101",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "BAA02545",
+          "2629",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of N370S glucocerebrosidase as a Potential Chaperone Treatment of Gaucher Disease",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2107",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "CAA29232",
+          "2717",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of Human alpha-Galactosidase From Spleen Homogenate",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2112",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_000143",
+          "2548",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase From Spleen Homogenate",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2147",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "2W2I_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of  Human Jumonji Domain Containing 2E (JMJD2E)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2451",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "2ISV_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Fructose-1,6-bisphosphate Aldolase from Giardia Lamblia",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2472",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_002037",
+          "2597",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of Fructose-1,6-bisphosphate Aldolase from Giardia Lamblia: Coupling assay counterscreen",
+          "Screening",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2517",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "1DE9_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1 (APE1)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2528",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_000048",
+          "641",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Bloom's syndrome helicase (BLM)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2546",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_035411",
+          "19885",
+          "",
+          "Potency",
+          "VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2549",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "2WWY_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of RecQ-Like Dna Helicase 1 (RECQ1)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2551",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_035411",
+          "19885",
+          "",
+          "Potency",
+          "qHTS for inhibitors of ROR gamma transcriptional activity",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "332912",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antimicrobial activity Propionibacterium acnes ATCC 11827 after 2 days by broth dilution method",
+          "Other",
+          "8158169",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336297",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Induction of cytosolic Glutathione S-transferase activity per mg of protein in A/J mouse liver at 20 mg, po for once every 2 days for total three doses measured after 24 hrs of last dose",
+          "Other",
+          "1402962",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336298",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Induction of cytosolic Glutathione S-transferase activity per mg of protein in A/J mouse small bowel mucosa at 20 mg, po for once every 2 days for total three doses measured after 24 hrs of last dose",
+          "Other",
+          "1402962",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336299",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Induction of cytosolic Glutathione S-transferase activity per mg of protein in A/J mouse forestomach at 20 mg, po for once every 2 days for total three doses measured after 24 hrs of last dose",
+          "Other",
+          "1402962",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336300",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Ratio of drug to control in induction of cytosolic Glutathione S-transferase activity per mg of protein in A/J mouse liver at 20 mg, po for once every 2 days for total three doses measured after 24 hrs of last dose",
+          "Other",
+          "1402962",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336301",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Ratio of drug to control in induction of cytosolic Glutathione S-transferase activity per mg of protein in A/J mouse small bowel mucosa at 20 mg, po for once every 2 days for total three doses measured after 24 hrs of last dose",
+          "Other",
+          "1402962",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336302",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Ratio of drug to control in induction of cytosolic Glutathione S-transferase activity per mg of protein in A/J mouse forestomach at 20 mg, po for once every 2 days for total three doses measured after 24 hrs of last dose",
+          "Other",
+          "1402962",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "378070",
+          "",
+          "103581571",
+          "5281515",
+          "Active",
+          "",
+          "",
+          "1.49",
+          "IC50",
+          "Inhibition of spontaneous contraction in guinea pig ileum",
+          "Confirmatory",
+          "16933870",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "485290",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "1JY1_A",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "504327",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_066564",
+          "2648",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of GCN5L2",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "504845",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "ABC94591",
+          "5999",
+          "",
+          "Potency",
+          "Inhibitors of Regulator of G Protein Signaling (RGS) 4: qHTS",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "504847",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_001017535",
+          "7421",
+          "",
+          "Potency",
+          "Inhibitors of the vitamin D receptor (VDR): qHTS",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "504865",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "AAH18745",
+          "7398",
+          "",
+          "Potency",
+          "Inhibitors of USP1/UAF1: Pilot qHTS",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588379",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_068594",
+          "60489",
+          "",
+          "Potency",
+          "qHTS for inhibitors of Vif-A3G interactions: Validation",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588579",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "NP_057302",
+          "51426",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Polymerase Kappa",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "602332",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "CAQ08732",
+          "",
+          "",
+          "Potency",
+          "qHTS for Inducers of the Endoplasmic Reticulum Stress Response (ERSR) in Human Glioma: qHTS",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "651631",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "P04637",
+          "7157",
+          "",
+          "Potency",
+          "qHTS assay for small molecule agonists of the p53 signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "651632",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "Q96QE3",
+          "79915",
+          "",
+          "Potency",
+          "qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "651633",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "651634",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669296",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y infected in monkey LLC-MK2 cells assessed as reduction in number of amastigotes after 96 hrs by Geimsa staining method",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669297",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "78.4",
+          "IC50",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes after 96 hrs by neubauer chamber",
+          "Confirmatory",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669298",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "1593",
+          "EC50",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y trymastigotes infected in monkey LLC-MK2 cells after 24 hrs by Brenner counter method",
+          "Confirmatory",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669299",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "63.7",
+          "IC50",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y amastigotes infected in monkey LLC-MK2 cells after 96 hrs by Geimsa staining method",
+          "Confirmatory",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669300",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "1715",
+          "CC50",
+          "Cytotoxicity against monkey LLC-MK2 cells after 96 hrs by sulforhodamine B assay",
+          "Confirmatory",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669301",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "2451",
+          "HC50",
+          "Toxicity in human RBC assessed as hemolysis after 3 hrs",
+          "Confirmatory",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669302",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Selectivity ratio of CC50 for monkey LLC-MK2 cells to IC50 for Trypanosoma cruzi Y amastigotes",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669304",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y trymastigotes infected in monkey LLC-MK2 cells after 24 hrs by Brenner counter method in presence of copalic",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669305",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y trymastigotes infected in monkey LLC-MK2 cells after 24 hrs by Brenner counter method in presence of beta-hydroxycopalic",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669306",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as lipid peroxidation at 400 uM after 6 hrs",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669307",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as gated cells in lower left quadrant at 400 uM after 3 hrs by propidium iodide staining-based flow cytometric analysis (Rvb = 89.35%)",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669308",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as gated cells in lower right quadrant at 400 uM after 3 hrs by propidium iodide staining-based flow cytometric analysis (Rvb = 5.41%)",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669309",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as gated cells in upper right quadrant at 400 uM after 3 hrs by propidium iodide staining-based flow cytometric analysis (Rvb = 1.40%)",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669310",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as gated cells in upper left quadrant at 400 uM after 3 hrs by propidium iodide staining-based flow cytometric analysis (Rvb = 3.76%)",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669311",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as gated cells in lower left quadrant at 400 uM after 3 hrs by rhodamine 123 staining-based flow cytometric analysis (Rvb = 2.40%)",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669312",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as gated cells in lower right quadrant at 400 uM after 3 hrs by rhodamine 123 staining-based flow cytometric analysis (Rvb = 1.12%)",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669313",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as gated cells in upper right quadrant at 400 uM after 3 hrs by rhodamine 123 staining-based flow cytometric analysis (Rvb = 94.94%)",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669314",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as gated cells in upper left quadrant at 400 uM after 3 hrs by rhodamine 123 staining-based flow cytometric analysis (Rvb = 1.54%)",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669315",
+          "",
+          "103581571",
+          "5281515",
+          "Active",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as kinetoplast disorganisation at compound IC50 concentration after 96 hrs by transmission electron microscopic analysis",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "669316",
+          "",
+          "103581571",
+          "5281515",
+          "Active",
+          "",
+          "",
+          "",
+          "",
+          "Antitrypanosomal activity against Trypanosoma cruzi Y epimastigotes assessed as formation of concentric membranous vacuoles at compound IC50 concentration after 96 hrs by transmission electron microscopic analysis",
+          "Other",
+          "22440015",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "686978",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "AAI07878",
+          "",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in absence of CPT",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "686979",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "AAI07878",
+          "",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in presence of CPT",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720516",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "Q96QE3",
+          "79915",
+          "",
+          "Potency",
+          "qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720532",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "B45705",
+          "",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Marburg Virus",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720533",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Lassa Virus",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720552",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "P04637",
+          "7157",
+          "",
+          "Potency",
+          "qHTS assay for small molecule agonists of the p53 signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720634",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "68.5896",
+          "Potency",
+          "qHTS assay for small molecule disruptors of the mitochondrial membrane potential - cell viability",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720635",
+          "",
+          "144211814",
+          "5281515",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay for small molecule disruptors of the mitochondrial membrane potential",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720637",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay for small molecule disruptors of the mitochondrial membrane potential: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720674",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720675",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cells",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720678",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cells",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720679",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cells",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720680",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cells",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720681",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cell free culture",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720682",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cell free culture",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720683",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cell free culture",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720684",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell free culture",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720685",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cell free culture",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720686",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cell free culture",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720687",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cells",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720691",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADP91253",
+          "2908",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the glucocorticoid receptor (GR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720692",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADP91253",
+          "2908",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720693",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720719",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADP91253",
+          "2908",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the glucocorticoid receptor (GR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720725",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADP91253",
+          "2908",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743012",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743014",
+          "",
+          "144211814",
+          "5281515",
+          "Inconclusive",
+          "",
+          "",
+          "68.5896",
+          "Potency",
+          "qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743015",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743033",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743035",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743036",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743040",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the androgen  receptor (AR) signaling pathway using the MDA cell line",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743041",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway using the MDA cell line - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743042",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway using the MDA cell line",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743053",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743054",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743063",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743064",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743065",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_001257783",
+          "24831",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743066",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_001257783",
+          "24831",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the thyroid receptor (TR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743067",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_001257783",
+          "24831",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743069",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743074",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743075",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "69.1666",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743077",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743078",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743079",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743080",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743081",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743083",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW77416",
+          "1588",
+          "",
+          "Potency",
+          "qHTS assay to identify aromatase inhibitors",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743084",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify aromatase inhibitors - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743085",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAL24281",
+          "196",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743086",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743091",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743094",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02283",
+          "5468",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743122",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAL24281",
+          "196",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743139",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW77416",
+          "1588",
+          "",
+          "",
+          "qHTS assay to identify aromatase inhibitors: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743140",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02283",
+          "5468",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743191",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02283",
+          "5468",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743194",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743199",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02283",
+          "5468",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743202",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_006155",
+          "4780",
+          "",
+          "Potency",
+          "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743203",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743209",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay for small molecule activators of the heat shock response signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743210",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_001531",
+          "3315",
+          "",
+          "Potency",
+          "qHTS assay for small molecule activators of the heat shock response signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743211",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743212",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02282",
+          "5467",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743213",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743215",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02282",
+          "5467",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743217",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17382",
+          "9971",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743218",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743219",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_006155",
+          "4780",
+          "",
+          "Potency",
+          "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743220",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17382",
+          "9971",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743221",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743222",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02291",
+          "7421",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743223",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02291",
+          "7421",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743224",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743225",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743226",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02282",
+          "5467",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743227",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02282",
+          "5467",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743228",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_001531",
+          "3315",
+          "",
+          "Potency",
+          "qHTS assay for small molecule activators of the heat shock response signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743239",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17382",
+          "9971",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743240",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17382",
+          "9971",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743241",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02291",
+          "7421",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743242",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "BAH02291",
+          "7421",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "977599",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "Q9Y6L6",
+          "10599",
+          "",
+          "",
+          "Inhibition of sodium fluorescein uptake in OATP1B1-transfected CHO cells at an equimolar substrate-inhibitor concentration of 10 uM",
+          "Other",
+          "23571415",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "977602",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "Q9NPD5",
+          "28234",
+          "",
+          "",
+          "Inhibition of sodium fluorescein uptake in OATP1B3-transfected CHO cells at an equimolar substrate-inhibitor concentration of 10 uM",
+          "Other",
+          "23571415",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1070523",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Partition coefficient, log K of the compound in n-hexane/methyl tert-butylether/acetonitrile 10:1:10 solvent system by HSCCC/EECCC analysis",
+          "Other",
+          "24641242",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1081538",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Nematicidal activity against Meloidogyne incognita J2 (root-knot nematode) larvae immersed in compound solution for 24 hr assessed as reduction in larval motility",
+          "Other",
+          "20527965",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1081539",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Nematicidal activity against Meloidogyne incognita J2 (root-knot nematode) larvae immersed in compound solution for 48 hr assessed as reduction in larval motility",
+          "Other",
+          "20527965",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1081540",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Nematicidal activity against Meloidogyne incognita J2 (root-knot nematode) larvae immersed in compound solution for 96 hr assessed as reduction in larval motility",
+          "Other",
+          "20527965",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1111942",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Insecticidal activity against abamectin-resistant female Tetranychus urticae ART-53 (two-spotted spider mite) in kidney bean assessed as mortality in 3 cm disks measured after 24 hr exposure by vapour-phase mortality bioassay",
+          "Other",
+          "21674753",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1111943",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Insecticidal activity against pyridaben-resistant female Tetranychus urticae PRT-53 (two-spotted spider mite) in kidney bean assessed as mortality in 3 cm disks measured after 24 hr exposure by vapour-phase mortality bioassay",
+          "Other",
+          "21674753",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1111944",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Insecticidal activity against fenpropathrin-resistant female Tetranychus urticae FRT-53 (two-spotted spider mite) in kidney bean assessed as mortality in 3 cm disks measured after 24 hr exposure by vapour-phase mortality bioassay",
+          "Other",
+          "21674753",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1111945",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Insecticidal activity against chlorfenapyr-resistant female Tetranychus urticae CRT-53 (two-spotted spider mite) in kidney bean assessed as mortality in 3 cm disks measured after 24 hr exposure by vapour-phase mortality bioassay",
+          "Other",
+          "21674753",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1111946",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Insecticidal activity against acaricide-susceptible female Tetranychus urticae KST (two-spotted spider mite) in kidney bean assessed as mortality in 3 cm disks measured after 24 hr exposure by vapour-phase mortality bioassay",
+          "Other",
+          "21674753",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159509",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAX06134",
+          "4790",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the NFkB signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159515",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the NFkB signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159516",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW90694",
+          "22926",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the endoplasmic reticulum stress response signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159517",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the endoplasmic reticulum stress response signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159518",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAX06134",
+          "4790",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the NFkB signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159519",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW90694",
+          "22926",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the endoplasmic reticulum stress response signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159520",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159521",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH14804",
+          "19885",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway ",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159523",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH14804",
+          "19885",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159525",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the AP-1 signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159526",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAX06628",
+          "3725",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the AP-1 signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159527",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17354",
+          "6256",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the RXR signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159528",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAX06628",
+          "3725",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the AP-1 signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159529",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the RXR signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159531",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17354",
+          "6256",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the RXR signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159551",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the retinoid acid receptor (RAR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159552",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17337",
+          "5914",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the retinoic acid receptor (RAR) signaling pathway ",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159553",
+          "",
+          "144211814",
+          "5281515",
+          "Inconclusive",
+          "ADZ17337",
+          "5914",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the retinoic acid receptor (RAR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1159555",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17337",
+          "5914",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the retinoic acid receptor (RAR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224834",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224835",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAA29795",
+          "116160065",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule inhibitors of firefly luciferase",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224836",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the constitutive androstane receptor (CAR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224837",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the constitutive androstane receptor (CAR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224838",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAY56401",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the constitutive androstane receptor (CAR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224839",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAY56401",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the constitutive androstane receptor (CAR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224840",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224841",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17378",
+          "2101",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224842",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17378",
+          "2101",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224843",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW81333",
+          "7253",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224844",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the hypoxia (HIF-1) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224845",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EGV99105",
+          "100757539",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of H2AX",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224846",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAG43026",
+          "3091",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the hypoxia (HIF-1) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224847",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of H2AX - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224848",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17378",
+          "2101",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224849",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17378",
+          "2101",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224867",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 24 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224868",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 32 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224869",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 0 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224870",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 40 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224871",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 40 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224872",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 16 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224873",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 8 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224874",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 40 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224875",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 24 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224876",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 16 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224877",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 32 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224878",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 24 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224879",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 40 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224880",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 0 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224881",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 32 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224882",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 0 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224883",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 32 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224884",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 8 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224885",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 16 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224886",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 24 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224887",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 8 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224888",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 16 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224889",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 0 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224890",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 8 hour",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224892",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAY56401",
+          "",
+          "",
+          "",
+          "qHTS assay to identify small molecule agonists of the constitutive androstane receptor (CAR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224893",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAY56401",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the constitutive androstane receptor (CAR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224894",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAG43026",
+          "3091",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the hypoxia (HIF-1) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224895",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW81333",
+          "7253",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1224896",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EGV99105",
+          "100757539",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of H2AX: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259241",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line in the presence of 0.1 nM 17-beta-estradiol - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259242",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line in the presence of 0.5 nM R1881 - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259243",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line in the presence of 0.5 nM R1881",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259244",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line in the presence of 0.1 nM 17-beta-estradiol",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259247",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line in the presence of 0.5 nM R1881: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259248",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line in the presence of 0.1 nM 17-beta-estradiol: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259312",
+          "",
+          "319890973",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Cell survival assay for modulators of telomere damage signalling",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259364",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_001308829",
+          "9734",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule HDAC inhibitors",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259365",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule HDAC inhibitors - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259366",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the sonic hedgehog signaling (Shh) pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259367",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the sonic hedgehog signaling (Shh) pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259368",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI13617",
+          "2737",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the sonic hedgehog signaling (Shh) pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259369",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI13617",
+          "2737",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the sonic hedgehog signaling (Shh) pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259377",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAV31779",
+          "2100",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor beta (ER-beta) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259378",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAV31779",
+          "2100",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor beta (ER-beta) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259379",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway in the presence of an antagonist - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259380",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor beta (ER-beta) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259381",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway in the presence of an antagonist",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259382",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor beta (ER-beta) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259383",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway in the presence of an antagonist",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259384",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists or antagonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway - wild type cell line counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259385",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW81333",
+          "7253",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259386",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway in the presence of an antagonist - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259387",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI32976",
+          "367",
+          "",
+          "",
+          "qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway in the presence of an antagonist: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259388",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_001308829",
+          "9734",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule HDAC inhibitors: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259390",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI13617",
+          "2737",
+          "",
+          "",
+          "qHTS assay to identify small molecule agonists of the sonic hedgehog signaling (Shh) pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259391",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AEP43755",
+          "2099",
+          "",
+          "",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway in the presence of an antagonist: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259392",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI13617",
+          "2737",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the sonic hedgehog signaling (Shh) pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259393",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW81333",
+          "7253",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists or antagonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway - wild type cell line counter screen: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259394",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAV31779",
+          "2100",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor beta (ER-beta) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259395",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW81333",
+          "7253",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259396",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAV31779",
+          "2100",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor beta (ER-beta) signaling pathway: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259401",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17378",
+          "2101",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259402",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17378",
+          "2101",
+          "",
+          "",
+          "qHTS assay to identify small molecule agonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259403",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17378",
+          "2101",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1259404",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17378",
+          "2101",
+          "",
+          "",
+          "qHTS assay to identify small molecule agonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346784",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ABB72139",
+          "5241",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the progesterone receptor (PR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346795",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ABB72139",
+          "5241",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the progesterone receptor (PR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346798",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the progesterone receptor (PR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346799",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the progesterone receptor (PR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346824",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the TGF-beta/Smad signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346829",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the TGF-beta/Smad signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346859",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH14840",
+          "4087",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the TGF-beta/Smad signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346859",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH50743",
+          "4088",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the TGF-beta/Smad signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346877",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW91923",
+          "7201",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the thyrotropin-releasing hormone receptor (TRHR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346891",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW91923",
+          "7201",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule agonists of the thyrotropin-releasing hormone receptor (TRHR) signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346924",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH14840",
+          "4087",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the TGF-beta/Smad signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346924",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH50743",
+          "4088",
+          "",
+          "Potency",
+          "qHTS assay to identify small molecule antagonists of the TGF-beta/Smad signaling pathway",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346977",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "Human pregnane X receptor (PXR) small molecule agonists, qHTS cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346978",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAP35329",
+          "840",
+          "",
+          "Potency",
+          "Caspase-3/7 induction in HepG2 cells by small molecules, qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346978",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "CAC88866",
+          "836",
+          "",
+          "Potency",
+          "Caspase-3/7 induction in HepG2 cells by small molecules, qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346979",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "Caspase-3/7 induction in CHO-K1 cells by small molecules, qHTS cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346980",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EGW14942",
+          "100766857",
+          "",
+          "Potency",
+          "Caspase-3/7 induction in CHO-K1 cells by small molecules, qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346980",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_001230975",
+          "100689061",
+          "",
+          "Potency",
+          "Caspase-3/7 induction in CHO-K1 cells by small molecules, qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346981",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "Caspase-3/7 induction in HepG2 cells by small molecules, qHTS cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1346982",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ADZ17384",
+          "8856",
+          "",
+          "Potency",
+          "Human pregnane X receptor (PXR) small molecule agonists, qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347030",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "P34981",
+          "7201",
+          "",
+          "",
+          "Thyrotropin-releasing hormone receptor (TRHR) small molecule agonists: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347031",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ABB72139",
+          "5241",
+          "",
+          "",
+          "Progesterone receptor (PR) small molecule antagonists, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347032",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH14840",
+          "4087",
+          "",
+          "",
+          "TGF-beta/Smad small molecule antagonists, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347032",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH50743",
+          "4088",
+          "",
+          "",
+          "TGF-beta/Smad small molecule antagonists, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347033",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "Human pregnane X receptor (PXR) small molecule agonists: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347034",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAP35329",
+          "840",
+          "",
+          "",
+          "Caspase-3/7 induction in HepG2 cells by small molecules, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347034",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "CAC88866",
+          "836",
+          "",
+          "",
+          "Caspase-3/7 induction in HepG2 cells by small molecules, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347035",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH14840",
+          "4087",
+          "",
+          "Potency",
+          "TGF-beta/Smad small molecule agonists, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347035",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH50743",
+          "4088",
+          "",
+          "Potency",
+          "TGF-beta/Smad small molecule agonists, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347036",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ABB72139",
+          "5241",
+          "",
+          "Potency",
+          "Progesterone receptor (PR) small molecule agonists, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347037",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EGW14942",
+          "100766857",
+          "",
+          "",
+          "Caspase-3/7 induction in CHO-K1 cells by small molecules, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347037",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_001230975",
+          "100689061",
+          "",
+          "",
+          "Caspase-3/7 induction in CHO-K1 cells by small molecules, qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347038",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "P34981",
+          "7201",
+          "",
+          "",
+          "Thyrotropin-releasing hormone receptor (TRHR) small molecule antagonists: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347082",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "956586",
+          "",
+          "",
+          "qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lassa (LASV) Arenavirus: LASV Primary Screen - GLuc reporter signal",
+          "Confirmatory",
+          "31786250",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347082",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "P13699",
+          "956584",
+          "",
+          "",
+          "qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lassa (LASV) Arenavirus: LASV Primary Screen - GLuc reporter signal",
+          "Confirmatory",
+          "31786250",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347083",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "956586",
+          "",
+          "",
+          "qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lassa (LASV) Arenavirus: Viability assay - alamar blue signal for LASV Primary Screen",
+          "Confirmatory",
+          "31786250",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347083",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "P13699",
+          "956584",
+          "",
+          "",
+          "qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lassa (LASV) Arenavirus: Viability assay - alamar blue signal for LASV Primary Screen",
+          "Confirmatory",
+          "31786250",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347085",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "956592",
+          "",
+          "",
+          "qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lymphocytic Choriomeningitis Arenaviruses (LCMV): Viability assay - alamar blue signal for LCMV Primary Screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347085",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "P09992",
+          "956592",
+          "",
+          "",
+          "qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lymphocytic Choriomeningitis Arenaviruses (LCMV): Viability assay - alamar blue signal for LCMV Primary Screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347086",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "956592",
+          "",
+          "",
+          "qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lymphocytic Choriomeningitis Arenaviruses (LCMV): LCMV Primary Screen - GLuc reporter signal",
+          "Confirmatory",
+          "31786250",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347086",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "P09992",
+          "956592",
+          "",
+          "",
+          "qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lymphocytic Choriomeningitis Arenaviruses (LCMV): LCMV Primary Screen - GLuc reporter signal",
+          "Confirmatory",
+          "31786250",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347395",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAA68151",
+          "43",
+          "",
+          "Potency",
+          "Acetylcholinesterase (AChE) small molecule antagonists: colormetric cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347397",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAA68151",
+          "43",
+          "",
+          "Potency",
+          "Acetylcholinesterase (AChE) small molecule antagonists: enzyme-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347398",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAA68151",
+          "43",
+          "",
+          "Potency",
+          "Acetylcholinesterase (AChE) small molecule antagonists: fluorescence cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1347399",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAA68151",
+          "43",
+          "",
+          "Potency",
+          "Acetylcholinesterase (AChE) small molecule antagonists: enzyme-based qHTS assay with human liver microsomes",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1409598",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antiviral activity determined as inhibition of SARS-CoV-2 induced cytotoxicity of Caco-2 cells at 10 uM after 48 hours by high content imaging",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1599306",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "22",
+          "IC50",
+          "Antiviral activity against DENV2",
+          "Confirmatory",
+          "31128447",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1612079",
+          "",
+          "103581571",
+          "5281515",
+          "Active",
+          "P34972",
+          "1269",
+          "0.15",
+          "Ki",
+          "Displacement of [3H]CP55940 from human CB2 expressed in CHOK1 cell membranes after 2 hrs by liquid scintillation counting method",
+          "Confirmatory",
+          "30096653",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1612080",
+          "",
+          "103581571",
+          "5281515",
+          "Active",
+          "P34972",
+          "1269",
+          "1.9",
+          "EC50",
+          "Agonist activity at recombinant human Cb2 receptor expressed in CHOK1 cells assessed as inhibition of forskolin-stimulated cAMP levels measured up to 30 mins by luminescence assay",
+          "Confirmatory",
+          "30096653",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1640020",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "P0DTD1",
+          "",
+          "",
+          "",
+          "SARS-CoV-2 3CL-Pro protease inhibition percentage at 20µM  by FRET kind of response from peptide substrate",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645758",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antiviral activity determined as inhibition of SARS-CoV-2 induced cytotoxicity of VERO-6 cells at 10 uM after 48 hours exposure to 0.01 MOI SARS CoV-2 virus by high content imaging",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645882",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "10411",
+          "",
+          "Potency",
+          "Validation qHTS for antagonist of cAMP-regulated guanine nucleotide exchange factor 3 (EPAC1)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645882",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "O95398",
+          "10411",
+          "",
+          "Potency",
+          "Validation qHTS for antagonist of cAMP-regulated guanine nucleotide exchange factor 3 (EPAC1)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645883",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "10411",
+          "",
+          "Potency",
+          "Validation qHTS for agonist of cAMP-regulated guanine nucleotide exchange factor 3 (EPAC1)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645883",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "O95398",
+          "10411",
+          "",
+          "Potency",
+          "Validation qHTS for agonist of cAMP-regulated guanine nucleotide exchange factor 3 (EPAC1)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645886",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "11069",
+          "",
+          "Potency",
+          "Validation qHTS for antagonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645886",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "Q8WZA2",
+          "11069",
+          "",
+          "Potency",
+          "Validation qHTS for antagonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645887",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "",
+          "11069",
+          "",
+          "Potency",
+          "Validation qHTS for agonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1645887",
+          "",
+          "26754425",
+          "5281515",
+          "Inactive",
+          "Q8WZA2",
+          "11069",
+          "",
+          "Potency",
+          "Validation qHTS for agonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2)",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671190",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "239",
+          "",
+          "Potency",
+          "Primary qHTS assay for inhibitors of human arachidonate 12S-lipoxygenase (ALOX12): Round 2",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671190",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "P18054",
+          "239",
+          "",
+          "Potency",
+          "Primary qHTS assay for inhibitors of human arachidonate 12S-lipoxygenase (ALOX12): Round 2",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671196",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1565",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 2 Subfamily D Member 6 (CYP2D6) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671196",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ANW61984",
+          "1565",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 2 Subfamily D Member 6 (CYP2D6) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671197",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1557",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 2 Subfamily C Member 19 (CYP2C19) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671197",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAV41877",
+          "1557",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 2 Subfamily C Member 19 (CYP2C19) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671198",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1559",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 2 Subfamily C Member 9 (CYP2C9) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671198",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AGS09764",
+          "1559",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 2 Subfamily C Member 9 (CYP2C9) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671199",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1544",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 1 Subfamily A Member 2 (CYP1A2) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671199",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "EAW99313",
+          "1544",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 1 Subfamily A Member 2 (CYP1A2) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671200",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "3757",
+          "",
+          "Potency",
+          "Human Ether-a-go-go-Related Gene (hERG) channel small molecule antagonists: fluorescence cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671200",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ABQ01243",
+          "3757",
+          "",
+          "Potency",
+          "Human Ether-a-go-go-Related Gene (hERG) channel small molecule antagonists: fluorescence cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671201",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1576",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 3 Subfamily A Member 4 (CYP3A4) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1671201",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ABI96208",
+          "1576",
+          "",
+          "Potency",
+          "Cytochrome P450 Family 3 Subfamily A Member 4 (CYP3A4) small molecule antagonists: luciferase reporter qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1749710",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "Q9UBN7",
+          "10013",
+          "",
+          "",
+          "Enzymatic assay of human HDAC6 with commercial peptide substrate",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1749711",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "Q9UBN7",
+          "10013",
+          "",
+          "",
+          "Enzymatic assay of human HDAC6 with custom peptide substrate",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1919968",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "Nuclear factor erythroid 2-related factor 2/antioxidant responsive element (Nrf2/ARE) small molecule agonists: qHTS cell viability counter screen in human keratinocytes",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1919969",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "4780",
+          "",
+          "Potency",
+          "Nuclear factor erythroid 2-related factor 2/antioxidant responsive element (Nrf2/ARE) small molecule agonists: luciferase reporter gene qHTS assay in human keratinocytes",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1919969",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH11558",
+          "4780",
+          "",
+          "Potency",
+          "Nuclear factor erythroid 2-related factor 2/antioxidant responsive element (Nrf2/ARE) small molecule agonists: luciferase reporter gene qHTS assay in human keratinocytes",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1919970",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH11558",
+          "4780",
+          "",
+          "",
+          "Nuclear factor erythroid 2-related factor 2/antioxidant responsive element (Nrf2/ARE) small molecule agonists, luciferase reporter gene qHTS assay in human keratinocytes: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1920063",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI13547",
+          "2798",
+          "",
+          "Potency",
+          "Human gonadotropin-releasing hormone receptor (GnRHR) small molecule agonists, calcium flux assay in GnRHR-HEK293 cells",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1920064",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ACG60651",
+          "84634",
+          "",
+          "Potency",
+          "Human kisspeptin (KISS1R) small molecule agonists, calcium flux assay in KISS1R-HEK293 cells",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1920065",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "G protein-coupled receptor (GPCR) small molecule agonists, calcium flux assay: HEK293 wild type cell line counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1920067",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAI13547",
+          "2798",
+          "",
+          "",
+          "Human gonadotropin-releasing hormone receptor (GnRHR) small molecule agonists, calcium flux assay in GnRHR-HEK293 cells: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1920068",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "ACG60651",
+          "84634",
+          "",
+          "",
+          "Human kisspeptin (KISS1R) small molecule agonists, calcium flux assay in KISS1R-HEK293 cells: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1938300",
+          "",
+          "103581571",
+          "5281515",
+          "Active",
+          "Q07869",
+          "5465",
+          "9.58",
+          "EC50",
+          "Agonist activity at PPARalpha (unknown origin)",
+          "Confirmatory",
+          "33992930",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1943847",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Escherichia coli 06 assessed as bacterial growth inhibition incubated for 24 hrs by broth microdilution method",
+          "Other",
+          "36731248",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1943848",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Pseudomonas aeruginosa 24 assessed as bacterial growth inhibition incubated for 24 hrs by broth microdilution method",
+          "Other",
+          "36731248",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1943849",
+          "",
+          "103581571",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Staphylococcus aureus 10 assessed as bacterial growth inhibition incubated for 24 hrs by broth microdilution method",
+          "Other",
+          "36731248",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963577",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AFN61604",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay with human liver microsomes",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963578",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AFN61604",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay with rat liver microsomes",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963579",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay with human liver microsomes: qHTS cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963580",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay with rat liver microsomes: qHTS cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963581",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay: qHTS cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963582",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963582",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AFN61604",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963583",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay with rat liver microsomes: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963583",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AFN61604",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay with rat liver microsomes: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963584",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963584",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AFN61604",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963585",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay with human liver microsomes: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963585",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AFN61604",
+          "7157",
+          "",
+          "Potency",
+          "p53 small molecule agonists, cell-based qHTS assay with human liver microsomes: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963586",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "3356",
+          "",
+          "Potency",
+          "5-hydroxytryptamine receptor 2A (HTR2A) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963586",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH96839",
+          "3356",
+          "",
+          "Potency",
+          "5-hydroxytryptamine receptor 2A (HTR2A) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963587",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "3356",
+          "",
+          "Potency",
+          "5-hydroxytryptamine receptor 2A (HTR2A) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963587",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH96839",
+          "3356",
+          "",
+          "Potency",
+          "5-hydroxytryptamine receptor 2A (HTR2A) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963588",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1128",
+          "",
+          "Potency",
+          "Cholinergic receptor muscarinic 1 (CHRM1) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963588",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_000729",
+          "1128",
+          "",
+          "Potency",
+          "Cholinergic receptor muscarinic 1 (CHRM1) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963589",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1128",
+          "",
+          "Potency",
+          "Cholinergic receptor muscarinic 1 (CHRM1) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963589",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_000729",
+          "1128",
+          "",
+          "Potency",
+          "Cholinergic receptor muscarinic 1 (CHRM1) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963590",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1385",
+          "",
+          "Potency",
+          "cAMP Responsive Elements (CRE) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963590",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAV38316",
+          "1385",
+          "",
+          "Potency",
+          "cAMP Responsive Elements (CRE) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963591",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1385",
+          "",
+          "Potency",
+          "cAMP Responsive Elements (CRE) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963591",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAV38316",
+          "1385",
+          "",
+          "Potency",
+          "cAMP Responsive Elements (CRE) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963592",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "154",
+          "",
+          "Potency",
+          "Adrenergic beta2 receptor (ADRB2) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963592",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_000015",
+          "154",
+          "",
+          "Potency",
+          "Adrenergic beta2 receptor (ADRB2) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963593",
+          "",
+          "144211814",
+          "5281515",
+          "Inconclusive",
+          "",
+          "154",
+          "",
+          "Potency",
+          "Adrenergic beta2 receptor (ADRB2) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963593",
+          "",
+          "144211814",
+          "5281515",
+          "Inconclusive",
+          "NP_000015",
+          "154",
+          "",
+          "Potency",
+          "Adrenergic beta2 receptor (ADRB2) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963594",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1813",
+          "",
+          "Potency",
+          "Dopamine D2 receptor (DRD2) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963594",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH21195",
+          "1813",
+          "",
+          "Potency",
+          "Dopamine D2 receptor (DRD2) small molecule agonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963595",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1813",
+          "",
+          "Potency",
+          "Dopamine D2 receptor (DRD2) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1963595",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH21195",
+          "1813",
+          "",
+          "Potency",
+          "Dopamine D2 receptor (DRD2) small molecule antagonists, cell-based qHTS assay",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2060913",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "cAMP Responsive Elements (CRE) small molecule antagonists, cell-based qHTS assay: qHTS cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2060914",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "",
+          "",
+          "",
+          "cAMP Responsive Elements (CRE) small molecule agonists, cell-based qHTS assay: qHTS cell viability counter screen",
+          "Confirmatory",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061098",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1385",
+          "",
+          "Potency",
+          "cAMP Responsive Elements (CRE) small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061098",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAV38316",
+          "1385",
+          "",
+          "Potency",
+          "cAMP Responsive Elements (CRE) small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061099",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1385",
+          "",
+          "",
+          "cAMP Responsive Elements (CRE) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061099",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAV38316",
+          "1385",
+          "",
+          "",
+          "cAMP Responsive Elements (CRE) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061100",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "3356",
+          "",
+          "",
+          "5-hydroxytryptamine receptor 2A (HTR2A) small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061100",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH96839",
+          "3356",
+          "",
+          "",
+          "5-hydroxytryptamine receptor 2A (HTR2A) small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061101",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "3356",
+          "",
+          "",
+          "5-hydroxytryptamine receptor 2A (HTR2A) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061101",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH96839",
+          "3356",
+          "",
+          "",
+          "5-hydroxytryptamine receptor 2A (HTR2A) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061102",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_000729",
+          "1128",
+          "",
+          "",
+          "Cholinergic receptor muscarinic 1 (CHRM1) small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061103",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1128",
+          "",
+          "",
+          "Cholinergic receptor muscarinic 1 (CHRM1) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061103",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_000729",
+          "1128",
+          "",
+          "",
+          "Cholinergic receptor muscarinic 1 (CHRM1) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061104",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1813",
+          "",
+          "Potency",
+          "Dopamine D2 receptor (DRD2) small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061104",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH21195",
+          "1813",
+          "",
+          "Potency",
+          "Dopamine D2 receptor (DRD2) small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061105",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "1813",
+          "",
+          "Potency",
+          "Dopamine D2 receptor (DRD2) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061105",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "AAH21195",
+          "1813",
+          "",
+          "Potency",
+          "Dopamine D2 receptor (DRD2) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061106",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "",
+          "154",
+          "",
+          "Potency",
+          "Adrenergic beta2 receptor (ADRB2) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061106",
+          "",
+          "144211814",
+          "5281515",
+          "Inactive",
+          "NP_000015",
+          "154",
+          "",
+          "Potency",
+          "Adrenergic beta2 receptor (ADRB2) small molecule antagonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061107",
+          "",
+          "144211814",
+          "5281515",
+          "Inconclusive",
+          "",
+          "154",
+          "",
+          "Potency",
+          "Adrenergic beta2 receptor (ADRB2) small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061107",
+          "",
+          "144211814",
+          "5281515",
+          "Inconclusive",
+          "NP_000015",
+          "154",
+          "",
+          "Potency",
+          "Adrenergic beta2 receptor (ADRB2) small molecule agonists, cell-based qHTS assay: Summary",
+          "Summary",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061326",
+          "",
+          "163668110",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Mycobacterium tuberculosis Opportunistic Infection Cellular Data",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061329",
+          "",
+          "163668110",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Opportunistic Infection Cellular Data",
+          "Other",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2061329",
+          "",
+          "342592681",
+          "5281515",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "",
+          "Opportunistic Infection Cellular Data",
+          "Other",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+}
